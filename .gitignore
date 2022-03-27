@@ -1,4 +1,7 @@
-checkpoints
+checkpoints/loan_former
+checkpoints/phobert_fused
+checkpoints/transformers
+checkpoints/vi_ba_bartpho
 translated_data
 .idea
 __pycache__
