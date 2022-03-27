@@ -1,7 +1,7 @@
-#Introduction
+# Introduction   
 This is a vi-ba translation project
 
-#How to
+# How to
 1. Download checkpoints to _checkpoints_ folder:   
 link1: https://drive.google.com/drive/folders/1-0RNqTFa596aH4BJCi7Pz4_hdkDGnLiu?usp=sharing   
 link2:    
