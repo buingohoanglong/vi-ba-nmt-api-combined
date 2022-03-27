@@ -2,7 +2,10 @@
 This is a vi-ba translation project
 
 #How to
-1. Download checkpoints from <> to _checkpoints_ folder:   
+1. Download checkpoints to _checkpoints_ folder:   
+link1: https://drive.google.com/drive/folders/1-0RNqTFa596aH4BJCi7Pz4_hdkDGnLiu?usp=sharing   
+link2:    
+
 .   
 ├ _config.yml   
 ├ checkpoints   
@@ -21,4 +24,5 @@ This is a vi-ba translation project
 1. Start VNCoreNLP:   
 ```vncorenlp -Xmx2g vncorenlp/VnCoreNLP-1.1.1.jar -p 9000 -a "wseg,pos,ner,parse"```
 
-2. 
+2. Start API Server:   
+```PYTHONPATH=./ python api/translation_api.py```
