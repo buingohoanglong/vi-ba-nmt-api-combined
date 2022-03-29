@@ -105,10 +105,15 @@ class TranslationPipeline:
                 return translated
 
     async def __call__(self, text, model=ModelTypes.COMBINED):
-        sents = self.vn_core_service.tokenize(text)
-        sents = [" ".join(sent).replace("_", " ") for sent in sents]
-        translated_sentences = [self.translate_sent(sent, model) for sent in sents]
-        return " ".join(translated_sentences), ""
+        vi_paragraphs = text.split('\n')
+        ba_paragraphs = []
+        for paragraph in vi_paragraphs:
+            sents = self.vn_core_service.tokenize(paragraph)
+            sents = [" ".join(sent).replace("_", " ") for sent in sents]
+            translated_sentences = [self.translate_sent(sent, model) for sent in sents]
+            translated_paragraph = " ".join(translated_sentences), ""
+            ba_paragraphs.append(translated_paragraph if paragraph != '' else '')
+        return ba_paragraphs
 
 
 if __name__ == "__main__":

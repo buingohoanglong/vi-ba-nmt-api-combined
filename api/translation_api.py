@@ -1,5 +1,6 @@
 import uvicorn
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from config.config import Configuration
@@ -15,6 +16,14 @@ def create_app():
     config = Configuration()
     pipeline = TranslationPipeline(config)
     app = FastAPI()
+
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=["*"],
+        allow_credentials=True,
+        allow_methods=["*"],
+        allow_headers=["*"],
+    )
 
     @app.post("/translate")
     async def translate(translation: TranslationItem):
