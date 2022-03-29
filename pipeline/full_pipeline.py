@@ -111,7 +111,7 @@ class TranslationPipeline:
             sents = self.vn_core_service.tokenize(paragraph)
             sents = [" ".join(sent).replace("_", " ") for sent in sents]
             translated_sentences = [self.translate_sent(sent, model) for sent in sents]
-            translated_paragraph = " ".join(translated_sentences), ""
+            translated_paragraph = " ".join(translated_sentences)
             ba_paragraphs.append(translated_paragraph if paragraph != '' else '')
         return ba_paragraphs, ""
 
