@@ -26,3 +26,6 @@ link2: https://drive.google.com/file/d/1UywbjirkSkko3uuUSJ8Bu8BHK1g9egi3/view?us
 
 2. Start API Server:   
 ```PYTHONPATH=./ python api/translation_api.py```
+
+# References
+Pham Quoc Nguyen. https://github.com/PhamNguyen97/ViBaCombineModel
