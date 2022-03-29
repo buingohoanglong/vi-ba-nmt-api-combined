@@ -34,7 +34,7 @@ def create_app():
             'IsSuccessed': True,
             'Message': 'Success',
             'ResultObj': {
-                'src': text,
+                'src': text.split('\n'),
                 'tgt': translated_text
             }
         }

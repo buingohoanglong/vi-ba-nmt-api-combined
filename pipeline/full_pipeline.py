@@ -113,7 +113,7 @@ class TranslationPipeline:
             translated_sentences = [self.translate_sent(sent, model) for sent in sents]
             translated_paragraph = " ".join(translated_sentences), ""
             ba_paragraphs.append(translated_paragraph if paragraph != '' else '')
-        return ba_paragraphs
+        return ba_paragraphs, ""
 
 
 if __name__ == "__main__":
