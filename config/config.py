@@ -3,6 +3,7 @@
 class Configuration:
     vi_ba_dictionary_path = "checkpoints/dictionary_translate/dictionary"
     vi_ba_train_data_folder = "checkpoints/dictionary_translate/data"
+    synonyms_path = "checkpoints/dictionary_translate/synonyms/syn_data.json"
     loan_former_dictionary_path = "checkpoints/dictionary/dict-synonymaugment-accent.txt"
     loan_former_checkpoint_path = "checkpoints/loan_former/epoch=20-val_loss=1.18.ckpt"
     pho_bert_fused_dictionary_path = "checkpoints/dictionary/dict-synonymaugment.txt"

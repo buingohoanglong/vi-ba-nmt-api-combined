@@ -1,5 +1,6 @@
 import os
 import re
+import json
 import string
 from tqdm import tqdm
 
@@ -12,12 +13,50 @@ class Translator:
         self.config = config
         self.punctuation = string.punctuation + "–"
         self.dictionary = self.load_dictionary(config.vi_ba_dictionary_path, config.vi_ba_train_data_folder)
+        self.load_syn_data()
         # self.annotator = VnCoreNLP(address=vn_core_host, port=vn_core_port)
         vi_words = list(self.dictionary.keys())
-        vi_words = [f"{w}" for w in vi_words]
         vi_words.sort(key=lambda w: len(w), reverse=True)
-        self.re = re.compile("|".join(vi_words))
+        self.re = re.compile(" | ".join(vi_words))
         self.vn_core_service = vn_core_service
+
+    def load_syn_data(self):
+        def get_all_syn(word, w_set=None):
+            _syn_words = [item for syns in data[word]["syn"].values() for item in syns]
+            return _syn_words
+            # if w_set is None:
+            #     w_set = set()
+            # if word in w_set:
+            #     return w_set
+            # else:
+            #     w_set.add(word)
+            #     _syn_words = [item for syns in data[word]["syn"].values() for item in syns]
+            #     for syn_word in _syn_words:
+            #         get_all_syn(syn_word, w_set)
+            #     return w_set
+
+        print("LOAD SYN DATA")
+        data = json.load(open(self.config.synonyms_path, "r", encoding="utf8"))
+        done = False
+        while not done:
+            dict_length = len(self.dictionary)
+            vi_words = list(self.dictionary.keys())
+            for vi_word in vi_words:
+                if vi_word in data:
+                    syn_words = get_all_syn(vi_word)
+                    for w in syn_words:
+                        for c in string.punctuation:
+                            w = w.replace(c, "")
+                        w = w.strip()
+                        if w in self.dictionary or len(w) == 0:
+                            continue
+                        if w == "toán":
+                            continue
+                        self.dictionary[w] = self.dictionary[vi_word]
+                        # up_vi = w[0].upper() + w[1:]
+                        # up_ba = self.dictionary[vi_word][0].upper() + self.dictionary[vi_word][1:]
+                        # self.dictionary[up_vi] = up_ba
+            done = len(self.dictionary) == dict_length
 
     def load_dictionary(self, dictionary_path, train_data_folder):
         def get_text(item):
@@ -42,7 +81,7 @@ class Translator:
                         ba_line = ba_line.replace("  ", " ")
                     vi_line = vi_line.rstrip()
                     ba_line = ba_line.rstrip()
-                    if len(vi_line.split()) <= 4:
+                    if len(vi_line.split()) <= 4 and vi_line not in extra_dict:
                         extra_dict[vi_line] = ba_line
             return extra_dict
 
@@ -53,20 +92,24 @@ class Translator:
         ba_data = [get_text(item) for item in open(ba_file, "r", encoding="utf8").readlines()]
         dictionary = {}
         for vi, ba in zip(vi_data, ba_data):
-            if len(vi) == 0:
+            vi = vi.strip()
+            ba = ba.strip()
+            if len(vi) == 0 or vi in dictionary:
                 continue
             dictionary[vi] = ba
-            up_vi = vi[0].upper() + vi[1:]
-            up_ba = ba[0].upper() + ba[1:]
-            dictionary[up_vi] = up_ba
+            # up_vi = vi[0].upper() + vi[1:]
+            # up_ba = ba[0].upper() + ba[1:]
+            # dictionary[up_vi] = up_ba
 
         extra_dictionary = read_extra_data(train_data_folder)
         for vi, ba in extra_dictionary.items():
+            vi = vi.strip()
+            ba = ba.strip()
             if vi not in dictionary:
                 dictionary[vi] = ba
-                up_vi = vi[0].upper() + vi[1:]
-                up_ba = ba[0].upper() + ba[1:]
-                dictionary[up_vi] = up_ba
+                # up_vi = vi[0].upper() + vi[1:]
+                # up_ba = ba[0].upper() + ba[1:]
+                # dictionary[up_vi] = up_ba
         return dictionary
 
     def __call__(self, text):
@@ -105,21 +148,38 @@ class Translator:
 
     def _translate_word(self, word, ners, replace_all=True):
         word = f" {word} "
+        word = word.replace(" ạ ", " ")
         for c in self.punctuation:
             word = word.replace(c, f" {c} ")
 
-        words = list(self.re.findall(word))
-        words = [item for item in words if f" {item.strip()} " in word]
-        word_ = word
-        for w in words:
-            word_ = word_.replace(w, "")
-            word = word.replace(w, self.dictionary.get(w.strip(), w.strip()))
-        for c in self.punctuation:
-            word_ = word_.replace(c, "")
+        ner_words = set(item for ner in ners for item in ner.split())
+        word_set = set(w for w in word.split())
+        for w in word_set:
+            if w not in ner_words:
+                word = word.replace(w, w.lower())
 
+        word_ = word
         for ner in ners:
             word_ = word_.replace(ner, "")
 
+        n_candidates = 0
+        done = False
+        while not done:
+            words = list(self.re.findall(word))
+            print(f"|{words}|>>>|{word}|")
+            words = [item for item in words if f" {item.strip()} " in word]
+
+            for w in words:
+                word_ = word_.replace(w, " ")
+                word = word.replace(w, f"  {self.dictionary.get(w.strip(), w.strip())}  ")
+
+            if len(words) == n_candidates:
+                done = True
+            n_candidates = len(words)
+
+        for c in self.punctuation:
+            word_ = word_.replace(c, "")
+        print(f"++++++++++++{word_}")
         if len(word_.strip()) > 0 and replace_all:
             return None
         else:

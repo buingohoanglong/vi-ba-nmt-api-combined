@@ -14,6 +14,7 @@ class TranslationPipeline:
     def __init__(self, config: Configuration):
         self.config = config
         self.vn_core_service = VnCoreService(config)
+        self.dictionary_translator = Translator(config, self.vn_core_service)
         self.bart_pho_model = BartPhoTranslator(config)
         # tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", use_fast=False)
         # pho_bert = AutoModel.from_pretrained("vinai/phobert-base")
@@ -23,7 +24,6 @@ class TranslationPipeline:
         # #                                                      ModelTypes.PHOBERT_FUSED)
         # self.transformer_model = TransformerPGNTranslator(config, tokenizer, self.vn_core_service, pho_bert,
         #                                                   ModelTypes.TRANSFORMER)
-        self.dictionary_translator = Translator(config, self.vn_core_service)
 
     @staticmethod
     def preprocess(text):
@@ -84,6 +84,7 @@ class TranslationPipeline:
         translated = None
         ners = self.vn_core_service.get_ner(text)
         num_words = self.count_words(text, ners)
+        # return self.dictionary_translator.translate_word(text, ners)
         if num_words <= 7:
             translated = self.dictionary_translator.translate_word(text, ners)
         if translated is None:
@@ -98,13 +99,23 @@ class TranslationPipeline:
         sents = self.vn_core_service.tokenize(text)
         sents = [" ".join(sent).replace("_", " ") for sent in sents]
         translated_sentences = [self.translate_sent(sent, model) for sent in sents]
-        return " ".join(translated_sentences), ""
+        try:
+            return " ".join(translated_sentences), ""
+        except:
+            return None, None
 
 
 if __name__ == "__main__":
+    from tqdm import tqdm
     config = Configuration()
     pipeline = TranslationPipeline(config)
-    output = pipeline("tôi là sinh viên trường đại học bach khoa.")
-    print(output)
+    vi_data = [item.rstrip() for item in open("checkpoints/dictionary_translate/data/vi_0504_s.txt", "r", encoding="utf8")]
+    ba_data = [item.rstrip() for item in open("checkpoints/dictionary_translate/data/bana_0504_s.txt", "r", encoding="utf8")]
+    for vi, ba in tqdm(zip(vi_data, ba_data), total=len(vi_data)):
+        translated = pipeline(vi)
+        if translated is None:
+            print(f"\n>>>{vi}|||{ba}<<<\n")
+    # output = pipeline("Có bốn buổi: buổi sáng, buổi trưa, buổi chiều và buổi tối")
+    # print(output)
 
 
