@@ -1,11 +1,17 @@
+import time
+
+import os
+from common.model_types import ModelTypes
 import uvicorn
-from fastapi import FastAPI
+from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
 from config.config import Configuration
 from pipeline.full_pipeline import TranslationPipeline
 
+from starlette.background import BackgroundTask
 
 class TranslationItem(BaseModel):
     text: str
@@ -25,8 +31,8 @@ def create_app():
         allow_headers=["*"],
     )
 
-    @app.post("/translate")
-    async def translate(translation: TranslationItem):
+    @app.post("/translate/text")
+    async def translateText(translation: TranslationItem):
         text = translation.text
         model = translation.model
         translated_text, model_type = await pipeline(text, model)
@@ -37,6 +43,31 @@ def create_app():
                 'src': text.split('\n'),
                 'tgt': translated_text
             }
+        }
+
+    @app.post("/translate/file")
+    async def translateFile(file: UploadFile = File(...), model: str = Form(...)):
+        content = await file.read()
+        text = content.decode('utf-8')
+        translated_text, model_type = await pipeline(text, model)
+
+        tmp_dir = 'tmp_files'
+        filename = str(int(time.time())) + file.filename
+        with open(f'{tmp_dir}/{filename}', encoding='utf-8', mode='w') as f:
+            f.write('\n'.join(translated_text))
+        
+        def cleanup(filename):
+            os.remove(f'{tmp_dir}/{filename}')
+
+        return FileResponse(
+            f'{tmp_dir}/{filename}',
+            background=BackgroundTask(cleanup, filename),
+        )
+
+    @app.get("/models")
+    async def getModels():
+        return {
+            'models': ModelTypes.get_models()
         }
 
     return app

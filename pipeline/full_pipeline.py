@@ -78,17 +78,14 @@ class TranslationPipeline:
         # elif model == ModelTypes.LOAN_FORMER:
         #     return self.loan_former_model([text])[0]
         # else:
+        print(model)
         if model == ModelTypes.TRANSFORMER:
-            print("TRANSFORMER")
             return self.transformer_model([text])[0]
         elif model == ModelTypes.PHOBERT_FUSED:
-            print("PhoBERT-fused NMT")
             return self.pho_bert_fused_model([text])[0]
         elif model == ModelTypes.LOAN_FORMER:
-            print("LoanFormer")
             return self.loan_former_model([text])[0]        
-        else:  
-            print("BARTPHO + DICT")
+        else:
             #BART PHO + DICTIONARY ONLY
             text = self.preprocess(text)
             translated = None
