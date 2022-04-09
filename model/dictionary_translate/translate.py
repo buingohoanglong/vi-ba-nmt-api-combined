@@ -86,21 +86,30 @@ class Translator:
             return extra_dict
 
         files = os.listdir(dictionary_path)
-        vi_file = os.path.join(dictionary_path, [item for item in files if "vi" in item][0])
-        ba_file = os.path.join(dictionary_path, [item for item in files if "bana" in item][0])
-        vi_data = [get_text(item) for item in open(vi_file, "r", encoding="utf8").readlines()]
-        ba_data = [get_text(item) for item in open(ba_file, "r", encoding="utf8").readlines()]
+        vi_files = [os.path.join(dictionary_path, item) for item in files if "vi" in item]
+        ba_files = [os.path.join(dictionary_path, item.replace("vi", "bana")) for item in files if "vi" in item]
+
+        vi_data = [get_text(item) for file in vi_files for item in open(file, "r", encoding="utf8").readlines()]
+        ba_data = [get_text(item) for file in ba_files for item in open(file, "r", encoding="utf8").readlines()]
+        # vi_file = os.path.join(dictionary_path, [item for item in files if "vi" in item][0])
+        # ba_file = os.path.join(dictionary_path, [item for item in files if "bana" in item][0])
+        # vi_data = [get_text(item) for item in open(vi_file, "r", encoding="utf8").readlines()]
+        # ba_data = [get_text(item) for item in open(ba_file, "r", encoding="utf8").readlines()]
         dictionary = {}
         for vi, ba in zip(vi_data, ba_data):
             vi = vi.strip()
             ba = ba.strip()
-            if len(vi) == 0 or vi in dictionary:
-                continue
-            dictionary[vi] = ba
+            vi_words = vi.split(",")
+            ba_word = ba.split(",")[0]
+            ba_word = ba_word.strip()
+            for vi_word in vi_words:
+                vi_word = vi_word.strip()
+                if len(vi_word) == 0 or vi_word in dictionary:
+                    continue
+                dictionary[vi_word] = ba_word
             # up_vi = vi[0].upper() + vi[1:]
             # up_ba = ba[0].upper() + ba[1:]
             # dictionary[up_vi] = up_ba
-
         extra_dictionary = read_extra_data(train_data_folder)
         for vi, ba in extra_dictionary.items():
             vi = vi.strip()
