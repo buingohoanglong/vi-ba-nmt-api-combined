@@ -1,0 +1,567 @@
+LOAD SYN DATA
+>>>Mình tên là Yôl. Còn bạn tên gì?|||Inh măt Yôl. Tơnglơ̆i e măt yưng?<<<
+>>>Mình tên là Điêu. Nhà Yôl ở đâu?|||Inh măt Diêu. Hnam e uĕi hăn như?<<<
+>>>Nhà mình ở làng Kon Đruch. Còn nhà Điêu ở đâu?|||Hnam inh uĕi pơlĕi Kon Druch. Tơnglơ̆i hnam e uĕi hăn như?<<<
+>>>Mình ở làng Kon Hai. Hôm nay mình đi chợ mua quần áo.|||Hnam inh uĕi pơlĕi Kon Hai. Adrơ̆u inh năm tơ chơ̆ ruôt kuơ̆n au.<<<
+>>>Hay quá, mình cũng đi chợ. Chúng mình cùng đi nhé!|||Pui adrin, inh kung năm tơ chơ̆. Ba adĭng năm yơh!<<<
+>>>Bác ơi, đây là làng gì ạ?|||Ơ nă, 'nơ̆u pơlĕi yưng?<<<
+>>>Làng Kon Đruch.|||'Nău pơlĕi Kon Druch.<<<
+>>>Nhà ông Nhơn đi đường nào bác?|||Hnam 'bok Nhơn uĕi trong như he?<<<
+>>>Đi đường đó, đến câu rẽ trái là đến nhà ông Nhơn.|||Năm trong 'nơ̆u truh dĭ kung weh gah 'meu jơh truh hnam 'bok Nhơn.<<<
+>>>Nước đây, các anh uống đi. Các anh đến nhà ông Nhơn có việc gì không?|||'Nău ơ̆u, et kih. Yem năm tơ hnam 'bok Nhơn ơĭ tơdrong yưng?<<<
+>>>Tôi gọi ông đến làng Kon Blo cúng làm xong nhà mới ạ.|||Nhơn plơh 'bok Nhơn năm tơ pơlĕi Kon 'Blo sư̆ sơhmah ăn kơ hnam 'nau pơm.<<<
+>>>Ông Nhơn đi vắng rồi.|||'Bok Nhơn yơĭ uĕi hnam.<<<
+>>>Ông ấy đi Quảng Ngãi thăm bà con, chưa về đâu.|||Hơ năm tơ Kuang Ngai tơmang grung tơpanh đim sưt.<<<
+>>>Bác biết chắc như thế không ạ?|||Nă alê̆ tơpă yơh?<<<
+>>>Thế thì chúng tôi về đây.|||Tơnglơ̆i nhơn sưt.<<<
+>>>Bác biết chắc à?|||Nă alê̆ tơpă yơh?<<<
+>>>Như mọi chủ nhật, sáng nay Yôl ngủ dậy muộn. Mặt trời đã lên quá ngọn quế trong vườn. Ở ngoài sân, bố Yôl đang nói chuyện với một người lạ. Yôl hỏi mẹ|||'Năr chu nhơ̆t như kung lơ̆i, bơgê adrơ̆u Yôl 'yung klui. Măt 'năr jơh suôn hluôi wêch kuê̆ lơ̆m mir. Uĕi măng cham, 'bă Yôl atung 'bơ̆l adrĭng minh 'nu bơngai bĭ alê̆. Yôl apinh mĭ<<<
+>>>Mẹ ơi, ai đấy?|||Ơ mĭ, bu 'noh?<<<
+>>>Đấy là bác Cường. Trước đây, bác ấy đi bộ đội cùng bố.|||'Nơ̆u la nă Kương. Adrol sơ̆, nă 'noh năm bô đôi adrĭng bă.<<<
+>>>Bác ấy ở dưới huyện Vĩnh Thạnh.|||Nă 'noh uĕi tơ huên Vinh Thanh.<<<
+>>>Yôl cùng mẹ đi ra ngoài sân chào bác Cường|||Yôl adrĭng mĭ năm lêch tơ măng cham chau nă Kương<<<
+>>>Cháu tên là Yôl.|||Mon măt Yôl.<<<
+>>>Ăn sáng xong, Yôl cùng bố và bác Cường đi thăm nhà rông.|||Sa bơgê hơleh, Yôl adring 'bă weng nă Kương năm tơmang hnam wal.<<<
+>>>Hội thoại|||Pơđam 'bơ̆l<<<
+>>>Bác Thanh đi đâu sớm thế?|||Nă Thanh năm tơnhư sruôih adrin?<<<
+>>>Hôm nào bác cũng dậy từ sáng sớm như thế này à?|||Lanhư nă kung 'yung đưng pơgê sruôih thoi ơ̆u yơh?<<<
+>>>Ừ, trừ những hôm trời mưa.|||Ư̆, tuk măng 'năr plĕnh 'mi.<<<
+>>>Lát nữa tôi lên họp ở ấy ban xã. Họp xong đi xuống làng Kon Đruch để cùng bà con bàn chuyện làm đường.|||Pă minh 'biê̆ inh năm hop tơ wi 'ban sa. Hop aleh năm jul pơlĕi Kon Druch sơ̆m nă ma tơja pơđam pơm trong.<<<
+>>>Nếu trưa nay bác không về thì chập tối mời bác sang nhà tôi uống rượu mừng nhà mới nhé!|||Yăh 'năr dưng nă bĭ đơ̆i sưt tơnglơ̆i kơsơ̆ yưm yưm inh hnhŭk nă năm tơkan hnam inh et sơdrô hưch hanh hnam 'nau!<<<
+>>>Ừ, tối tôi đến. Nhưng tôi nói trước, tôi chỉ đến một lúc thôi, tôi không ở đến khuya đâu.|||Ư̆, kơmăng inh truh. Mă lĕi inh akhan adrol inh uĕi minh biê̆ yơh, inh bĭ đơ̆i uĕi truh kơmăng yơh.<<<
+>>>Hôm nào bác cũng dậy từ sáng sớm như thế này à?|||La như nă kung 'yung đưng bơgê sruôih thoi ớu yơh?<<<
+>>>Gia đình tôi sống ở làng Kon Đruch, xã Vĩnh Sơn, huyện Vĩnh Thạnh. Gia đình tôi có bảy người: bố mẹ tôi, chị gái tôi, ba anh trai tôi và tôi. Bố mẹ tôi đã hơn sáu mươi tuổi. Hiện nay, họ vẫn đi làm rẫy.|||Ŭnh hnam inh arih uĕi pơlĕi Kon Druch, sa Vinh Sơn, huên Vinh Thanh. Ŭnh hnam inh ơĭ tơpơh nu bơngai: 'bă mĭ inh, mai inh, pêng 'nu 'nhŏng inh weng kơ inh. Mĭ 'bă inh jơh gloh tơdrơ̆u jĭt. Ahrĕi ơ̆u, pre hơ arĕ năm pơm mir.<<<
+>>>Chị gái tôi hiện là giáo viên trường làng. Chị ấy đã lấy chồng ở làng bên nên thường về thăm nhà. Ba anh trai tôi đang học trường dân tộc nội trú ở dưới huyện Vĩnh Thạnh. Họ thường về thăm nhà vào chủ nhật. Tôi là con út trong gia đình.|||Mai inh ahrĕi ơ̆u la duch pơtho trương pơlĕi. Mai 'noh jơh 'yŏk tơhnglo uĕi pơlĕi jê̆ kơna mai 'noh năm tơmang mĭ 'bă hơ dach. Pêng 'nu 'nhŏng inh atung hok trương kon kông nôĭ tru uĕi tơ huen. Kăn hơ sưt tơmang hnam 'năr chu nhơ̆t dach. Inh la kon uch lơ̆m ŭnh hnam.<<<
+>>>Hiện nay, tôi đang đi học lớp năm ở trường làng. Buổi sáng, tôi đi học. Buổi chiều, tôi ở nhà giúp mẹ làm việc nhà. Năm sau, tôi sẽ đi học ở dưới huyện. Gia đình tôi hiện đang sống rất vui vẻ.|||Ahrĕi ơ̆u, inh kung atung hok lơp đăm uĕi trương pơlĕi. Trong bơgê, inh năm hok. Trong kơ sơ̆ inh uĕi hnam tơgŭm mĭ pơm tơdrong hnam. Sơnăm anô̆, inh năm hok uĕi tơ huen. Ahrĕi ơ̆u, ŭnh hnam inh arih hyôk hiăn.<<<
+>>>Ông của Yôl|||'Bok đe yôl<<<
+>>>Ở làng Kon Đruch, ông của Yôl là người già nhất. Râu tóc ông bạc trắng, bàn tay ông cứng và nhăn nheo như vỏ cây đa trong rừng.|||Uĕi pơlĕi Kon Druch, 'bok đe Yôl la bơngai kră loi đe nai. Sŏk kang, sŏk kơ̆l 'bok 'noh 'bak tơpă. Tơpang ti khăng weng chơ'nhot chơnhat in kơđoh 'long jri lơ̆m bri.<<<
+>>>Yôl rất thích xem ông làm việc. Ông đan gùi mắt to gùi mắt nhỏ. Thứ để lúa bắp trong kho, thứ để mang đi rẫy.|||Yôl 'moih ngŏ 'bok pơm tơpă. 'Bok tanh tuaih, dơnol. Dơnol sư̆ 'ba, hơ'bo lơm sum tuaih sư̆ pŭ năm tơ mir.<<<
+>>>Thỉnh thoảng Yôl đi bẫy thú cùng ông. Ông bẫy rất giỏi. Có lần, ông bẫy được con lợn rừng to bằng con bê. Ông bảo: Ngày xưa, có nhiều thú hơn, bẫy dễ được chim thú. Ngày nay bẫy khó hơn vì chim thú đã hết.|||Đunh đunh, Yôl năm đăk chơđong adrĭng 'bok. 'Bok đăk chơđong hơgĕi tơpă. Ơĭ minh 'măng chơđong, 'bok đơ̆i minh tŏ chơke grông lơmo kon. 'Bok khan: sơ̆ kih ơĭ lư sem bri loi. Chơđong 'bônh kơ đơ̆i sem. Ahrĕi ơ̆u, chơđong anat loi kơ yuô sem jơh đĭ.<<<
+>>>Ông của Yôl biết rất nhiều chuyện dân tộc Ba na. Những đêm rằm, ông thường kể chuyện cho Yôl nghe. Trong những câu chuyện ông kể, có con thỏ khôn ngoan giúp người giết con cọp đữ, có chàng trai nghèo gặp nàng tiên bên suối.|||'Bok đe Yôl alê̆ lư tơdrong kon kông Bơhnar. Đĭ đăng kơmăng khĕi pơnil, 'bok roi tơdrong sơ̆ ăn kơ Yôl kơtơ̆ng. Lơ̆m tơdrong 'bok roi, ơĭ kon bơdung alăng aluôh tơgum bơngai 'bet 'bok nưih, ơĭ minh 'nu tơdăm dơnuh tơjrưm yă yang uĕi hăn sơđiêng đak.<<<
+>>>Làng Kon Đruch|||Pơlĕi Kon Druch<<<
+>>>Làng Kon Đruch ở trên núi cao. Làng có khoảng trên ba mươi gia đình người Ba na. Từ huyện Vĩnh Thạnh lên xã Vĩnh Sơn, chỉ có một con đường nhỏ, dài khoảng ba mươi cây số. Vì đường đi khó khăn nên dân làng sống biệt lập với bên ngoài.|||Pơlĕi Kon Druch uĕi kơpưng kông đuôĭ. Pơlĕi ơĭ loi pêng jĭt ŭnh hnam bơngai Bơhnar. Đưng Vinh Thanh truh Vinh Sơn ơĭ minh tŏ trong ken đuôi pêng jĭt kơ̆i sô. Yuô trong năm anat kơna kon pơlĕi 'biê̆ lêch hluôi pơlĕi.<<<
+>>>Dân làng sống với nhau rất vui vẻ. Buổi sáng đi làm rẫy, buổi tối gia đình lại ngôi bên bếp lửa. Những ngày lễ hoặc khi có khách đến, dân làng thường tập trung ở nhà rông để uống rượu cần, nhảy múa và ca hát.|||Kon pơlĕi arih adrĭng tơ bơ̆i hyôk hiăn adrin. Trong bơgê năm pơm mir, trong kơsơ̆ ŭnh hnam uĕi rok jih ŭnh. Ơĭ lơ̆m 'năr pui hĕi ơĭ lơ̆m năr tơmoi truh, kon pơlĕi truh hnam wal sư̆ et sơdrô triêng, kơdrô suang weng joh.<<<
+>>>Ở giữa làng có một con suối chảy vào một cái hồ lớn. Mùa hè, Yôl thường chăn trâu và tắm ở đó. Vì Yôl sinh ra và lớn lên ở Kon Đruch nên nó rất yêu Kon Đruch.|||Uĕi tơ̆k bơ̆k pơlĕi ơĭ minh hlak sơđiêng đak 'yol mưt minh tơ̆ 'bău grông. Yan tŏ phang Yôl kiê̆ kơpô weng hum hăn 'noh dach. Yuô Yôl đeh tơ pơlĕi Kon Druch kơna hơ 'mem pơlĕi Kon Druch.<<<
+>>>Yôl sinh ra tại làng Kon Đruch|||Yôl đeh tơ pơlĕi Kon Druch<<<
+>>>Lời mẹ dặn|||'Bơ̆l mĭ pơkă<<<
+>>>Sáng thứ bảy, bố mẹ Yôl đi xuống Quy Nhơn để thăm bác Cường ốm. Yôl phải trông nhà. Trước khi đi, mẹ dặn:|||Bơgê thư̆ tơpơh, mi bă Yôl năm jul Kwi Nhơn sư̆ tơmang nă Kương jĭ. Yôl phai ngŏ hnam. Adrol năm, mĭ pơkă:<<<
+>>>Không thả trâu. Con lấy ít rơm cho trâu ăn là được rồi.|||Bĭ tơ'nglaih kơpô kung khĭ. Kon 'yŏk biê̆ hơnong 'ba ăn kơ kơpô sa kung khĭ.<<<
+>>>Chiều tối. Con nhớ nấu cơm đấy nhé. Mẹ đã đi chợ rồi. Thức ăn để trên gác bếp.|||Kơsơ̆ kơ-inh. Kon 'blŏk ơ̆p ngoh yơh. Mĭ jơh năm tơ chơ̆ bloh. Tơdrong sa sư̆ kơpưng pra hnam ŭnh.<<<
+>>>Thế hôm nay chị Lan có sang không hả mẹ?|||Ơ mĭ, tơnglơ̆i adrơ̆u mai Lan hăm ơĭ năm sơhmanh tơ ơ̆u?<<<
+>>>Không, buổi trưa chỉ một mình con ăn thôi. À con nhớ phải học bài đấy nhé!|||Yơĭ, 'năr dưng minh 'nu kon sa đêch. Kon 'blŏk phai hok 'bai yơh!<<<
+>>>Yôl vâng lời và làm theo lời mẹ dặn.|||Yôl lui 'bơ̆l weng pơm trŏ 'bơ̆l mĭ pơkă.<<<
+>>>Mơ ước của Điêu|||Nưih diêu 'moih<<<
+>>>Các con muốn sau này sẽ làm gì?|||Đe kon wă anô̆ ană pơm tơdrong yưng?<<<
+>>>Câu hỏi làm cả lớp ôn ào. Một bạn giơ tay:|||'Bơ̆l apinh pơm đĭ đăng lơ̆m lơp klik klang. Minh 'nu jơ ti:<<<
+>>>Thưa cô, con muốn làm giáo viên như cô. Con muốn được dạy chữ Ba na cho bà con trong làng của con ạ.|||Ơ duch, kon wă pơm duch pơtho in duch. Kon wă đơ̆i pơtho chư Bơhnar ăn pơlĕi kon.<<<
+>>>Một bạn khác thích làm phi công. Có bạn muốn đi bộ đội. Còn mỗi Điêu ngồi im lặng. Điêu học giỏi nhất lớp nhưng mơ ước lại rất đơn giản. Điêu nói:|||Minh 'nu bơngai nai 'moih pơm phi kông. Ơĭ bơngai wă năm 'bô đôi. Ară minh 'nu Diêu uĕi bơdư. Diêu hok hơgĕi loi đĭ đăng đe lơ̆m lơp, mă lĕi nưih 'moih 'bunh 'bŏk adrin. Diêu khan:<<<
+>>>Con muốn làm người đưa thư ạ. Bố con đang ở xa. Hôm nào con cũng mong thự của bố.|||Kon wă pơm bơngai ăn kơthơ. 'Bă inh atung uĕi hiơ̆. 'Năr mă như kon kung gô kơthơ 'bă.<<<
+>>>sẽ làm|||jê̆ pơm<<<
+>>>Dòng chữ trên đá Hơ Biên|||Trong chư kơpưng tơmo hơ'biên<<<
+>>>Ngày xưa, có hai con quỷ cùng tên là Prôm thường xuống vùng sông Kôn để ăn thịt dân làng Ba na. Thỉnh thoảng, chúng còn xuôi xuống tận hạ lưu để ăn thịt người Chăm.|||'Năr sơ, ơĭ 'bal tŏ lêh lêm adrĭng măt Prôm hanh jul tơ krong 'bung sa asĕch kon pơlĕi Bơhnar. Đunh đunh, pre hơ ară jul truh tơ bah krong sa asĕch bơngai Chăm.<<<
+>>>Năm ấy, bà Hơ Biên bàn với các già làng Ba na cách giết Prôm. Bà Hơ Biên cùng dân làng giết trâu, mổ lợn, thổi cơm.., làm các thức ăn ngon để nhữ Prôm. Loáng một cái, hai con quỷ đã mò xuống làng. Chúng thấy mùi thức ăn thơm phức, bèn đánh chén no say. Chỉ chờ có thế, bà Hơ Biên cùng dân làng dùng dây mây trói cả hai con quỷ lại, dùng dao giết một con. Con quỷ kia vẫn chưa say hẳn nên đã chạy thoát. Bà Hơ Biên đuổi theo và giết chết nốt.|||Sơnăm mă 'noh, yă Hơ 'Biên pơđam adrĭng đe kră pơlĕi Bơhnar chă trong 'bet pre Prôm. Yă Hơ 'Biên adrĭng kon pơlĕi 'bet kơpô, 'bet 'nhŭng weng ơ̆p ngoh.., pơm tơdrong sa nham sư̆ pơm pơdrăn ăn kơ pre hơ Prôm. 'Nau minh hĕi, 'bal tŏ lêh lêm jơh jul tơ pơlĕi. Pre hơ jơh 'mơ̆u phu tơdrong sa kơna đưng rŏng 'noh pre hơ mưt sa et phĭ suai rĕnh rê̆. Jơh gô lơ'noh đêch, yă Hơ 'Biên adrĭng kon pơlĕi 'yŏk tơlĕi hre chô̆ đĭ pre hơ uĕi minh dơnŏ, đư̆ng rŏng 'noh 'yŏk săng 'bet minh tŏ. Ară minh tŏ lêh lêm hơ đìm gan suai kơna jơh glaih. Yă Hơ 'Biên kơdơ̆u tiê̆ weng 'bet lơh.<<<
+>>>Sau khi trừ được quỷ dữ, dân làng cũng không thấy bà Hơ Biên đâu nữa. Chỉ thấy tảng đá bà hay ngồi bỗng xuất hiện dòng chữ kì lạ trông rất đẹp. Từ đó, người ta gọi tảng đá đó là đá Hơ Biên.|||Đưng rŏng 'bet đơ̆i lêh lêm, kon pơlĕi bĭ 'boh yă Hơ 'Biên tơ như piêu. 'Boh đêch tơmo yă Hơ 'Biên gô uơ̆i bĭ alê̆ 'ne yưng dĭ tơmo lêch trong chư lă lă liêm adrin. Kơna đưng 'noh, đe khan tơmo 'noh la tơno Hơ 'Biên.<<<
+>>>Hòn đá Hơ Biên với dòng chữ cổ đến nay vẫn còn trên dòng sông Kôn.|||Tơmo Hơ 'Biên adrĭng trong chư kră sơ̆ truh adrơ̆u bơ̆n ară kơpưng krong 'Bung.<<<
+>>>Vườn nhà Yôl|||Mil hnam Yôl<<<
+>>>Nhà Yôl có một khu vườn rất đẹp. Bố Yôl kể rằng: Bố mẹ trồng những cây ăn quả đầu tiên ở khu vườn này cách đây hơn hai mươi năm. Hồi đó đây là khu đất màu mỡ. Bây giờ, trong vườn trồng đủ loại: quế, mít, xoài, ẩu đủ, chuối và cả bầu, bí nữa.|||Hnam Yôl ơĭ minh tŏ mir lưng. 'Bă đe Yôl roi: Mĭ 'bă pơtăm 'long sa plĕi pơtơm lơ̆m mir 'nơ̆u đưng rŏng 'nơ̆u loi 'bal jĭt sơnăm. Jơnang 'noh, dơnŏ 'nơ̆u la dơnŏ teh lưng. Ahrĕi ơ̆u, lơ̆m mir pơtăm tôm adrêch: kuê̆, pơnăt, pơ-ŏ, đu, pit weng puôl, tơ'lôp piêu.<<<
+>>>Hôm nay Yôl ra vườn càng bố. Nhìn buồng chuối trĩu quả, nó hỏi bố:|||'Năr adrơ̆u, Yôl năm tơ mir adrĭng 'bă. 'Ngŏ amông pit plĕi kơdung, hơ apinh 'bă:<<<
+>>>Bố trồng chuối như thế nào?|||'Bă pơtăm pit lơnhư?<<<
+>>>Đào hố, rồi cho cây chuối con vào hố, lấp đất lại là xong.|||Sil chơhlung, đưng rŏng ĕi tơmưt 'long pit kon lơ̆m chơhlung, 'yŏk teh 'bŭ la keh.<<<
+>>>Hôm nay, cả nhà Yôl đi suốt lúa. Mẹ và chị dậy sớm hơn mọi ngày. Mẹ nấu cơm còn chị thì sửa soạn gùi, rựa. Trời chưa sáng nhưng cả nhà đã lên đường. Vì Yôl bé nhất nhà nên em không phải mang gùi. Nó chỉ đeo một giỏ cơm nhỏ. Được đi suốt lúa, Yôl thích lắm. Yôl vừa đi vừa chạy. Mẹ bảo Yôl:|||'Năr adrơ̆u, đĭ đăng ŭnh hnam Yôl năm kêch 'ba. Mĭ weng kơ mai Yôl 'yung sruôih loi rim 'năr. Mĭ ơ̆p ngoh weng 'yŏk 'mưĭ dơnol, tơbưk. 'Năr đim rang mă lĕi ŭnh hnam kăn hơ jơh năm tơ mir. Yôl ken loi lơ̆m ŭnh hnam kơna yơĭ pŭ dơnol. Hơ bĕng ngoh lơ̆m jak ken đêch. Đơ̆i năm kêch 'ba, Yôl pui adrin. Hơ bươ năm bươ kơdơ̆u. Mĭ khan Yôl:<<<
+>>>Rấy kia rồi. Họ nhanh tay suốt lúa bỏ vào gùi đeo bên mình. Yôl vừa làm vừa chơi, hết chạy đến chỗ mẹ lại chạy sang chỗ bố, có khi lại mải mê nhìn theo những chú bướm vàng trước mặt. Thỉnh thoảng bố nhắc Yôl:|||Mĭr to 'noh. Ti kăn hơ kêch 'ba biêt lơ̆m jak. Yôl bươ pơm bươ sơhmanh đĭ kơdơ̆u dơnŏ mĭ đưng rŏng ĕi kơdơ̆u tơ 'bă, ơĭ Jơnang adrin ngŏ yă pơlai brơ̆u atung pal adrol măt. Đunh đunh 'bă phai pơkă:<<<
+>>>Đến chiều, cả nhà đã suốt được một đống lúa to. Bố nhìn Yôl nói: "Năm nay lúa tốt. Nhà mình không đói nữa rồi. Bố mẹ sẽ mua cho Yôl một bộ quân áo thật đẹp."|||Truh kơsơ̆, đĭ đăng ŭnh hnam jơh kêch đơ̆i minh pơnŭ 'ba grông. 'Bă ngŏ Yôl khan: "Sơnăm ơ̆u 'ba lưng. Hnam bơ̆n khĭ pơngot piêu. Mĭ 'bă ruôt ăn kơ Yôl minh 'bô̆ kuơ̆n au liêm yơh!"<<<
+>>>Yôl sung sướng reo lên.|||Yôl pui pe khan:.<<<
+>>>Thế thì thích quá!|||Tơnglơ̆i pui adrin!<<<
+>>>Hội thoại|||Pơđam 'bơ̆l<<<
+>>>Người Ba na có đi săn không?|||Bơngai Bơhnar hăm ơĭ năm chă ayô ưh?<<<
+>>>Có chứ. Trước đây đi săn nhiều, bây giờ thì ít rồi.|||Ơĭ năm. 'Năr sơ̆ năm ayô lư, ahrĕi ơ̆u 'biê̆ năm.<<<
+>>>Chúng tôi mang theo chó, rựa, giáo mác và cả cung nỏ.|||Nhơn chĕp tiê̆ kŏ, tak, đơbưk weng kơ sră.<<<
+>>>Thích nhỉ, khi nào rỗi, nhất định tôi sẽ đi theo các anh một lần.|||Moih yơh, layơ aleh inh tiê̆ 'yem nhŏng minh 'măng.<<<
+>>>Anh biết không, chúng tôi đi săn không chỉ để ăn thịt mà còn để bảo vệ mùa màng. Đi săn cũng là dịp để các chàng trai Ba na thể hiện tài năng và lòng dũng cảm đấy.|||'Nhŏng hăm alê̆, nhơn năm ayô sơbŏ sư̆ sa sem ară wă wĕi mir ba. Năm ayô 'noh sư̆ ngŏ alê̆ đe tơdăm bơngai Bơhnar đĕi đon chro tôm rim tơdrong bu yă loi.<<<
+>>>Hôm nay, Yôl dậy sớm hơn mọi ngày. Em theo mẹ đi chợ Định Bình. Chợ thật đông người. Ngoài người Bana Yôl còn thấy có nhiều người Hrê, Chăm Hroi, Kinh..|||Bơgê adrơ̆u, Yôl 'yung sruôih loi đưng yơ̆u. Oh tiê̆ mĭ năm tơ chơ̆ Đinh 'Binh. Chơ̆ bơngai lư tơpă. Gah agah bơngai Bơhnar Yôl ară 'boh lư bơngai Hre, Chăm Hroi, Yuăn..<<<
+>>>Ở chợ người ta bán rất nhiều thứ. Chỗ này bán lúa, gạo, ngô, khoai, sắn; chỗ kia bán các loại hoa quả như: cam, dứa, mít.. Yôl hỏi mẹ:|||Uĕi lơ̆m chơ̆ bơngai tĕch lư tơdrong 'nau 'nau plư̆ng plư̆ng. Dơnŏ 'nơ̆u tĕch 'ba, phe, hơ'bo, 'blang. Dơnŏ mă to tĕch rim adrêch pơkau plĕi: kruôĭ 'ngam, kơchik, pơnăt.. Yôl apinh mĭ:<<<
+>>>Mẹ ơi, quần áo bán ở chỗ nào?|||Ơ mĭ, đe tĕch kuơ̆n au uĕi hăn như?<<<
+>>>Mẹ đưa Yôl đến chỗ bán quần áo. Ở đây có rất nhiều quần áo đẹp, Yôl nhìn hoa cả mắt. Mẹ mua cho Yôl một chiếc quần màu xanh, một chiếc áo màu vàng. Yôl thích lắm.|||Mĭ 'bă Yôl truh tĕch kuơ̆n au. Uĕi hơ-ơ̆u đơ̆i lư kuơ̆n au liêm, Yôl ngŏ tơbla măt. Mĭ ruôt ăn kơ Yôl minh tŏ kuơ̆n kơsĕ, minh tŏ au 'brơ̆u. Yôl 'moih tơpă.<<<
+>>>Đến gần trưa, chợ đã vãn người, Yôl và mẹ ra về. Yôl dặn mẹ: "Lần sau đi chợ mẹ cho con đi nữa nhé!".|||Truh jê̆ 'năr dưng chơ̆ jơh 'biê̆ 'bơngai, Yôl weng mĭ lêch sưt. Yôl pơkă mĭ: "Năm chơ̆ đưng rŏng, mĭ ăn kon năm piêu yơh!".<<<
+>>>Chị ơi mua đồ dùng học sinh ở đâu?|||Ơ mai, đe tĕch đô hok sinh hăn như?<<<
+>>>Đợi chị bán hết chỗ chuối này rồi chị em mình cùng đi.|||Gô mai tĕch đĭ pit 'nơ̆u kah, đư̆ng rŏng ĕi, mai oh ba adrĭng năm.<<<
+>>>Bác ơi, bác có mua chuối này không? Chuối ngon lắm.|||Ơ nă, nă hăm wä ruôt pit 'nơ̆u? Pit nơ̆u 'ngam tơpă.<<<
+>>>Hai ngàn một nải.|||Bal abơ̆u minh tŏ bơlưk.<<<
+>>>Đắt quá, tôi không mua. Ba ngàn hai nải được không?|||Măt adrin, inh bĭ ruôt. Inh ruôt 'bal bơlưk pêng abơ̆u hăm khĭ?<<<
+>>>Vâng. Bác mua vở và bút ở đâu đấy?|||Khĭ. Nă ruôt bơ-al weng 'long chih 'nơ̆u hăn như?<<<
+>>>Một quyển vở hai ngàn rưỡi. Một cái bút một ngàn.|||'Bal abơ̆u đăm hriêng minh pôm hla bơ-al 'nơ̆u. 'Long chih 'nơ̆u minh abơ̆u.<<<
+>>>Yôl ơi, giá như thế thì em mua hai quyển vở và một cái bút tất cả bao nhiêu tiền?|||Ơ Yôl, jă lĭ ĕi oh ruôt 'bal pôm hla bơ-al weng minh pôm 'long chỉh đĭ dôm như Jên?<<<
+>>>Chị Sá là người chăm chỉ. Những lúc rảnh rỗi chị thường đi lấy củi. Nhà chị nhiều củi lắm. Hôm nay chị đi chợ bán củi. Một thanh niên hỏi:|||Mai Să bơngai pơnam tơnui. Jơh aleh tơdrong nai mai ară kơdơ̆u chă 'long ŭnh. Hnam mai lư 'long ŭnh tơpă. 'Năr adrơ̆u mai năm chơ̆ tĕch 'long ŭnh. Minh 'nơ̆u bơngai tơdăm apinh:<<<
+>>>Em bán củi đấy à?|||Oh tĕch long lĭnh yơh?<<<
+>>>Vâng, anh mua đi!|||Ư̆ 'nhŏng ruôt bĕ!<<<
+>>>Anh mua bó này. Bao giờ em lại đi lấy củi?|||'Nhŏng ruôt bŏ mă 'nơ̆u. Layơ oh năm 'yŏk 'long ŭnh piêu?<<<
+>>>Được thôi, nếu anh không nói dối.|||Ăn năm tơ̆ng 'nhŏng khĭ akhan plach.<<<
+>>>Người thanh niên trả tiền, rồi đi về phía cuối chợ. Chị Sá chăm chú nhìn theo: người đâu mà dễ thương đến thế!|||Bơngai tơdăm pơdriêu jên aleh năm sưt gah tuôch chơ̆. Mai să ngŏ pơlŏng đưng rŏng: bơngai đưng như ma 'moih 'mem 'moih mơnat pă lê̆ dang yơ!<<<
+>>>nói dối|||akhan plach<<<
+>>>Ông ơi, ông chẻ tre để làm gì đấy?|||Ơ 'bok, 'bok koh 'long kram sư̆ pơm yưng?<<<
+>>>Thế à? Đan gùi có khó không?|||Thoi yơh? tanh dơnol hăm anat ưh?<<<
+>>>Không khó. Nếu đan khéo thì nhanh và đẹp. Nếu đan vụng thì lâu xong và xấu.|||Khĭ anat. Tơ̆ng tỉ pơm kheu hơ rĕnh.keh, weng kơ liêm. Tơ̆ng pơm grôi hơ đunh hơleh weng kơ brư̆.<<<
+>>>Hôm qua ông đan được hai cái. Hôm nay mới đan được một cái. Ông đang đan một cái nữa. Thế tất cả là mấy cái?|||'Năr abri 'bok tanh đơ̆i 'bal tŏ dơnol. 'Năr adrơ̆u bok 'nau tanh đơ̆i minh tŏ. 'Bok atung wă tanh minh tŏ piêu. Tơnglơ̆i đĭ đăng đơ̆i dôm tŏ?<<<
+>>>Tất cả là bốn cái. Ông đan để làm gì?|||Đĭ đăng la puôn tŏ. 'Bok tanh hơ sư̆ pơm yưng?<<<
+>>>Hai cái này để đựng thóc và bắp. Cái kia để đựng rau và cỏ. Cái kia nữa để đựng củi và đuốc. Cháu giúp ông chẻ lạt đi. Chúng ta cùng làm.|||'Bal tŏ mă 'nău sư̆ mong 'ba weng hơ'bo. Mă to mong hla 'nhem weng kơ 'nhăt. Mă to piêu sư̆ mong 'long ŭnh weng apoih. Său tơgưm 'bok chăl tơlak kih. Ba adrĭng pơm. .<<<
+>>>Bằng dao. Cẩn thận, kẻo cắt vào tay!|||'Bĭ săng. Bơlơ̆ng bơlơ̆ng, săng 'bom ti yơh!<<<
+>>>Chàng trai nghèo và bầy khỉ|||Tơdăm dơnuh weng tơpul dŏk<<<
+>>>Ngày xưa, có hai vợ chông nghèo sinh được hai người con trai. Vợ chồng họ mất sớm. Hai anh em phải cùng nhau trồng sắn ăn.|||'Năr sơ̆, ơ̆i 'bal 'nu yă 'bok dơnuh đeh đơ̆i 'bal 'nu kon tơhnglo. Mĭ 'bă pre luôch sruôih. 'Bal 'nu nhŏng oh pre phai pơtăm 'bum sa sư̆ arih.<<<
+>>>Một hôm, không biết từ đâu đến, có một bầy khỉ vào rẫy phá sắn. Người em giận lắm, tìm cách đuổi bầy khỉ đi để bảo vệ sắn. Anh đi tìm bắt cua ở suối, về giã nát ướp cho thối rồi bôi lên người. Sau đó, người em ra rẫy, nằm dưới một thân cây đổ.|||Ơĭ minh 'măng, bĭ alê̆ đưng như truh, ơĭ minh tơpul đŏk mưt tơ mir phă 'bum. Oh hơ đuk adrin, chă trong sư̆ adrang tơpul đŏk hli sư̆ wĕi 'bum. 'Nhŏng năm chă rôp kơtam rok sơđiêng đak, sưt peh hach, pơ'nhŭ đưng rŏng 'mik suôn akău. Đưng rŏng 'noh, oh hơ năm tơ mir, 'bich ala minh hlak 'long păk.<<<
+>>>Hôm sau, bầy khỉ vào rẫy ăn sắn. Chúng trèo lên thân cây đổ, ngửi thấy mùi thối, nhìn xuống thấy một người nằm ở dưới. Lũ khỉ nghĩ là người đó chết đói, chúng liền rủ nhau khiêng về làm đám ma. Khỉ làm đám ma, bầy khỉ mang tất cả của cải, tiền bạc ra.|||'Năr đưng rŏng, tơpul đŏk mưt mir sa 'bum. Kăn hơ hau kơpưng 'long păk, hut kơtơ̆ng 'mơ̆u ôm, ngŏ tơ teh 'boh minh 'nu 'bich hăn teh. Tơpul đŏk atăk bơngai 'noh luôch bơngot. Kăn hơ hnhuk tơ bơ̆l tông sưt sơmah atơ̆u. Adrol sơmah atơ̆u tơpul đŏk chĕp đi đăng tơmam ram jên lêch.<<<
+>>>Người em chỉ chờ có vậy vùng dậy la hét, xua đuổi. Đám khỉ chạy hết. Người em lấy tất cả của cải lũ khỉ.|||Oh hơ jơ pă gô lơ̆i đêch plŭk 'yung, krau awah, adrang. Tơpul đŏk kơdơ̆u đi. Oh hơ 'yơ̆k đĭ đăng tơmam ram đe tơpul đŏk sư̆.<<<
+>>>Từ đó, hai anh em trở nên giầu có và bầy khỉ cũng không vào phá sắn của họ nữa.|||Đưng 'noh, 'bal 'nu 'nhŏng oh hơ jing bơdrŏng kuan weng kung đưng 'noh, tơpul đŏk bĭ yơĭ mưt phă 'bum pre piêu.<<<
+>>>Mùa phát rẫy đã đến, hôm nay ông Ba đi xuống chợ mua thêm một con dao rựa. Đi xem hết chợ một lượt, ông dừng lại chỗ người bán nhiều rựa nhất. Người bán hàng đon đả hỏi ông:|||Jơh truh măng 'năr mưih mir, năr adrơ̆u 'bok 'Ba năm jul chơ̆ ruôt mĭnh hlak dơbưk piêu. Ngŏ đi lơ̆m chơ̆m minh măng, 'bok uĕi kơtă dơnŏ bơngai tĕch dơbuk lư loi. Bơngai tĕch tơmam hưch hanh apinh 'bok:<<<
+>>>Có nhiều loại rựa đấy. Bác mua loại rựa nào?|||Ơĭ lư luai dơbưk yơh. Nă ruôt đơbưk luai mă như?<<<
+>>>Dao rựa đây. Bác chọn đi!|||Dơbưk 'nơ̆u. Nă rơih bĕ!<<<
+>>>Mẹ ơi, hôm nay nghỉ học chúng con sẽ làm gì?|||Ơ mĭ, 'năr adrơ̆u bơdơĭ hok nhơn kon pơm yưng?<<<
+>>>Con đi cắt cỏ gianh cùng mẹ. Em My đi chăn trâu.|||Kon năm kăt hla ja adĭng mĭ. Oh Mi năm kiê̆ kơpô.<<<
+>>>Mẹ ơi, làm nhà ruộng để làm gì?|||Ơ mĭ, pơm hnam gô rêch sư̆ pơm yưng?<<<
+>>>Con chưa thấy nhà ruộng à? Nhà ruộng là một cái nhà nhỏ ở gần ruộng, khi nào lúa chín thì chúng ta sẽ ở đó để canh lúa. Nhà ruộng cũng là nơi cất cày, bừa và gùi.|||Kon đim 'boh hnam gô rêch ah? Hnam gô rêch la hnam ken pơm jê̆ bal lanhư 'ba đum bơ̆n năm uĕi tơ 'noh sư̆ gô rêch. Hnam gô rêch kung la dơnŏ sư̆ 'long kĕi, 'long 'bươ weng dơnol.<<<
+>>>Thế làm nhà ruộng cần nhiều gỗ và cỏ gianh à?|||Tơnglơ̆i pơm hnam gô rêch wăä lư 'long weng kơ hla ja yơh?<<<
+>>>Ừ, phải có gỗ để làm cột, tre nứa để làm vách, sàn. Không có cỏ gianh thì không lợp được mái.|||Ư̆, phai ơĭ 'long sư̆ pơm jrăng, treng kram sư̆ pơm pơnih, pơm pra. Yơĭ hla ja bĭ đơ̆i atăk dil hnam.<<<
+>>>Con chưa thấy nhà ruộng à?|||Kon đim 'boh hnam gô rêch ah?<<<
+>>>Hôm nay, bố mẹ cho Yôl đi theo lên rẫy. Em mang theo một chiếc gùi nhỏ. Con chó Vàng cũng đi theo. Có lúc thì theo sau, lúc thì vụt chạy lên trước, có vẻ vui thích lắm.|||'Năr adrơ̆u mĭ 'bă ăn Yôl năm tiê̆ tơ mir. Oh pŭ minh tŏ tuaih ken. Kŏ 'brơ̆u năm tiê̆ diong. Ơĭ dơnŏ kodơ̆u tiĕ đưng rŏng, ơĭ dơnŏ kê̆ kơdơ̆u năm adrol, ngŏ sư 'moih tơpă.<<<
+>>>Đến rẫy, bố và mẹ làm cỏ bắp. Yôl và con Vàng đi theo con đường mòn vào rừng. Những đám cỏ mát lạnh dưới chân. Một đàn bướm trắng nhởn nhơ bay. Yôl hái một bông hoa đỏ còn ướt sương. Em chợt nghe thấy tiếng con chim cu hót trong lùm cây trước mặt.|||Truh tơ mir, 'bă weng mĭ pơm 'nhăt hơ'bo. Yôl weng kŏ 'Brơ̆u năm rok minh hlak trong uôh mưt tơ bri. Lư 'nhăt sơhngeu jing juô̆ năm. Minh kơtum yă pơlai kok păl 'lĕp 'lĕp. Yôl hleh minh tŏ pơkau gôh arä hơnhuih đak lơngom. Oh 'nhĕk kơtơ̆ng bơ̆l sem kơtơp tơsi lơ̆m tơnơm 'long anô̆ măt.<<<
+>>>Đến trưa, bố mẹ làm cỏ bắp xong. Bố chặt chuối, mẹ và Yôl hái rau. Em chạy đi múc nước suối cho mẹ uống. Bố nhìn Yôl khen: "Giỏi lắm, con trai bố lớn rồi đó". Mẹ cũng cười nhìn em. Rồi mẹ và Yôl xếp những nải chuối vào gùi, có lúc đi theo sau có lúc vụt chạy lên trước.|||Truh 'năr dưng 'bă mĭ pơm 'nhăt hơ'bo keh. 'Bă koh pit mĭ weng Yôl kơsep hla 'nhem. Oh kơdơ̆u suk đak thong kơ mĭ et. 'Bă ngŏ bơne Yôl: "Pơnam tơpă, kon tơhnglo 'bă Joh tih grông". Mĭ kung dĕk ngŏ oh. Aleh 'noh mĭ weng Yôl adon blưk pit tơmưt lơ̆m tuaih.<<<
+>>>Em chạy đi múc nước suối cho mẹ uống.|||ơĭ dơnŏ kơdơ̆u tiê̆ đưng rŏng, ơĭ dơnŏ kŏ kơdơ̆u năm adrol.<<<
+>>>Có, nhưng mới học cày thôi. Vì trước đây người Ba na chỉ làm rẫy.|||Ơĭ, mă lĕi 'nau hok pơm đêch. Yuô adrol 'noh bơngai Bơhnar pơm mir đêch.<<<
+>>>Ồ tùy thôi. Con trâu nào khỏe thì cày được nhiều.|||O, bu alê̆ đêch. Kơpô mă như jăng pơm đơ̆i lư.<<<
+>>>Thế ruộng nhà anh cày mấy ngày thì xong?|||Tơnglơ̆i bal hnam 'nhŏng pơm dôm 'năr keh?<<<
+>>>Người Ba na ở nhà sàn hay nhà đất?|||Bơngai Bơhnar uĕi hnam san jah uĕi hnam teh?<<<
+>>>Trước đây nhà to và dài lắm. Có cái dài hàng trăm mét. Nay thì làm nhỏ thôi. Mỗi cái nhà thường dài bẩy — tám mét, rộng ba bốn mét, cao bốn — năm mét, sàn cách mặt đất một — một mét rưỡi.|||Kơsơ̆ hnam tih să dêh. Ơĭ hnam să đuôĭ loi hriêng met. Ahrĕi ơ̆u pơm ken ken. Minh tŏ hnam ahrĕi ơ̆u tol tơpơh - tơhngam met, wơ̆l să pêng — puôn met, yơl đuôĭ puôn đăm met, tơnơl hnam kơjung đưng teh đơ̆i minh met mình pơnuôt.<<<
+>>>Làm bằng gỗ lim hoặc gỗ trắc.|||Pơm sơ̆m 'long dơnăng, 'long krăk.<<<
+>>>Thường lát bằng mò o hoặc nứa. Có nhà lát bằng gỗ.|||Pơm sơ̆m kram, ade, hyơl. Đơ̆i ŭnh hnam pơm sơ̆m 'long.<<<
+>>>Lần đầu tiên được theo mẹ đi lấy củi, Diêu vui lắm.|||Đơ̆i tiê̆ mĭ năm chă long ŭnh pơtơm ơ̆u, Diêu hưch hanh.<<<
+>>>Mẹ mang theo gùi to còn Diêu chọn cái gùi nhỏ nhất, đẹp nhất. Suốt dọc đường đi Diêu được chứng kiến bao nhiêu diều mới lạ: những cây cổ thụ cao vút, gốc to ba bốn người ôm không hết, những dòng suối ngoằn ngoèo chảy suốt ngày đêm không biết bắt nguồn từ đâu.. Diêu hỏi mẹ:|||Mĭ pă tuaih tỉh, Diêu chă tuaih ken loi, liêm loi. Tuôch rok trong năm, Diêu đơ̆i 'boh lư tơdrong 'nau 'nau: lư 'long kơdrưng tih grông đuôĭ, tơm tih 'bal, pêng puôn 'nu kuôi bĭ tăp, trong đak đŏng đĕu đak 'yol ling lang măng 'năr bĭ alê̆ tu hăp đưng như.. Diêu apinh mĭ:<<<
+>>>Chỗ lấy củi còn xa nữa không, hở mẹ?|||Dơnŏ 'yŏk 'long ŭnh hăm ară hlŏ mĭ?<<<
+>>>Không xa nữa đâu, ở ngay núi cao nhất kia kìa!|||Bĭ ơĭ hlŏ, hăp uĕi jing kông đuôĭ loi to 'noh.<<<
+>>>Đến nơi, Diêu thấy nhiều củi quá. Diêu nhanh nhẹn lấy rựa chặt những cành con bỏ vào gùi. Mẹ nhìn Diêu cười:|||Truh dơnŏ, Diêu 'boh 'long ŭnh lư tơpă. Tơ̆m rĕnh rĕnh 'yŏk dơbưk koh sơgiêng 'long ken tuk lơ̆m tuaih. Mĭ ngŏ Diêu dĕk:<<<
+>>>Khá lắm! Con lấy củi nhanh nhất nhà đấy.|||Liêm tơpă! Kon 'yŏk 'long ŭnh rĕnh loi 'bơngai nai lơ̆m ŭnh hnam bơ̆n.<<<
+>>>Min Địch|||Min Dich<<<
+>>>Ngày xửa ngày xưa, ở làng nọ có gia đình Bok Ria rất giàu có. Bok Ria có hai người con gái. Người con gái cả tên là Yă Krua rất xấu xí, tâm địa lại độc ác. Người con gái út tên là Min Địch rất xinh đẹp, hiền lành và tốt bụng. Thấy Min Địch được nhiều người yêu mến, Yă Krua ghen tức và tìm cơ hội hãm hại.|||Sơ̆ kih sơ̆ kaih, uĕi pơlĕi 'noh, ơĭ ŭnh hnam 'Bok Ria bơdrŏng. 'Bok Ria ơĭ 'bal 'nu kon kơdiŏng đêch. Mai kơdră măt Yă Kruô, brư̆ brich, 'bơ̆l đon brư̆ kơnĕ. Kon kơdiŏng uch măt Min Dich liêm adrin, khôn kheŭ weng nưih liêm. 'Boh Min Dich đơ̆i lư bơngai wă Yă Kruô gal đuk weng chă dôm tơdrong sư̆ 'brơh.<<<
+>>>Gặp năm đói kém, người chết đây làng, hai chị em Min Địch và Yă Krua cũng vào rừng đào củ mài. Khi trời tối, Min Địch bị lạc một mình trong rừng. Nàng đi mãi, gọi chị khản cả cổ nhưng không có ai trả lời. Nàng ngồi xuống gốc cây và khóc. Bỗng nhiên, Min Địch nghe thấy một giọng nói ấm áp:|||Lơ̆m sơnăm pơngot, bơngai luôch 'bĕnh pơlĕi, pre mai oh Min Dich weng Yă Kruô kung mưt tơ bri sil 'bum bri. Plĕnh klăm Min Dich wêng trong minh 'nu lơ̆m bri. Bia năm đunh krau kơsu hơlŏng mă lĕi yơĭ bu tơ'bơ̆l. Bia uĕi hăn tơm 'long weng nhĭm. Min Dich kơtơ̆ng 'bơ̆l khan tơnŏ tơnang apinh:<<<
+>>>Min Địch ơi, sao lại khóc?|||Ơ Min Dich, 'ne yưng nhĭm?<<<
+>>>Nàng ngẩng đâu lên thấy một con trăn khổng lô ở trước mặt, hai mắt nó sáng quắc. Thấy Min Địch sợ hãi, trăn nói:|||Bia hnhĕi tơnhơĭ 'boh minh tŏ klăn grông adrin uĕi adrol măt, 'bal gĕl măt hơ rang tơpă. 'Boh Min Dich 'yŭ adrin, kiăn khan:<<<
+>>>Tôi không ăn thịt cô đâu. Cô cần gì tôi sẽ giúp.|||Inh bĭ sa asĕch duch. Duch wă yưng inh tơgưm ăn.<<<
+>>>Min Địch kể lại đầu đuôi câu chuyện. Con trăn đào một gùi đầy củ mài rồi đưa nàng về nhà. Đến nhà của Min Địch, trăn lột xác biến thành một chàng trai tuấn tú và hỏi cưới Min Địch.|||Min Dich roi đĭ tơdrong. Klăn sil minh dơnol 'bĕnh 'bum bri. Đưng rŏng 'noh, chĕp duch sưt tơ hnam. Truh hnam Min Dich, klăn lŏng akal, jing minh 'nu tơdăm liêm weng apinh srôp Min Dich.<<<
+>>>Người chị cả Yă Krua càng ghen tức và đố kị, cũng đi vào rừng để tìm được một người chồng giàu có. Không may, Yă Krua gặp phải một con trăn ác, bị ăn thịt.|||Mai kơdră Yă Kruô gal đuk loi, kung năm mưt tơ bri sư̆ chă đơ̆i minh 'nu tơhnglo bơdrŏng. Ai bĭ mah, Yä Kruô tơjrưm minh tŏ klăn brư̆ kơnĕ. Klăn 'noh sa asĕch hơ.<<<
+>>>Con trâu nhà Yôl|||Kơpô hnam Yôl<<<
+>>>Nhà Yôl có một con trâu. Buổi sáng, Yôl thường thả trâu ở bãi có gần hồ, rồi đi lấy củi. Đến chiều, khi trâu đã no, Yôl chất hai bó củi to sụ lên lưng trâu rồi về nhà.|||Hnam Yôl ơĭ minh tŏ kơpô. Trong bơgê, Yôl tơ'nglaih kơpô lơ̆m tơmăn 'nhăt jê̆ 'bău, đưng rŏng 'noh, năm 'yŏk 'long ŭnh. Truh kơsơ̆, kơpô jơh phĭ, Yôl sư̆ 'bal tŏ 'long ŭnh grông kơpưng kơdŭ kơpô weng sưt tơ hnam.<<<
+>>>Yôl rất tự hào về trâu nhà mình. Nó rất to, có cặp sừng dài, đôi chân chắc khỏe và bộ lông dài mượt. Trâu nhà Yôl thường đánh thắng trâu nhà khác. Vì vậy, Yôl chăm sóc con trâu rất cẩn thận. Em thường chọn những vạt cỏ non, những vũng nước trong nhất cho trâu ăn.|||Yôl hưch hanh yuô kơpô hnam hơ. Kơpô grông tơpă, ơĭ 'bal hlak ake đuôĭ, puôn hlak tơgong jăng, bek weng sơ̆k đuôĭ. Kơpô hnam YôlI dach tuh sa kơpô đe nai. Yuô lơ'noh, Yôl tơme rong kơpô kheu kheu. Oh rơih tơmăn 'nhăt 'lơ̆p đêch, sơhlung đak hlăng ăn kơpô sa et.<<<
+>>>Có lần, Yôl hốt hoảng chạy về nhà hỏi mẹ:|||Ơĭ minh 'măng, Yôl kơdrăt kodu sưt tơ hnam apinh mĭ:<<<
+>>>Mẹ ơi, vì sao trâu nhà mình gẫy hết răng ở hàm trên?|||Ơ mĭ, yuô yưng kơpô hnam bơ̆n dơgơ̆ đĭ sơnĕnh uĕi gah 'nhưĭ?<<<
+>>>Ở làng Kon Đruch này, bác Nam là người chăn nuôi giỏi nhất. Cách đây mười năm, cũng như nhiều gia đình Ba na khác, nhà bác Nam không phải là một gia đình khá giả. Mặc dù quanh năm làm lụng vất vả nhưng cũng chỉ đủ ăn. Không bằng lòng với cuộc sống nghèo đói, bác Nam đã mạnh dạn vay tiền của ngân hàng để phát triển chăn nuôi. Ban đầu bác chỉ mua được một con trâu, hai con lợn giống. Nhờ biết cách chăm sóc nên trâu, lợn nhà bác Nam lớn nhanh lắm. Chỉ một năm sau, bác đã có thêm một con nghé và hơn chục con lợn con. Rồi bác mua thêm dê, bò, gà. Đàn gia súc, gia cầm của nhà bác vì vậy ngày một nhiều thêm. Nhà bác Nam đã trở thành một trại chăn nuôi lớn. Bác đã xây được nhà, mua được ti vi, xe máy.|||Uĕi pơlĕi Kon Druch 'nơ̆u, nă Nam bơngai rong agĕi loi. Đưng ahrĕi ơ̆u minh jĭt sơnăm, dang dang lư ŭnh hnam bơhnar nai, hnam nă Nam sơ'bŏ ŭnh hnam bơdrŏng loi kơ đe. 'Boh ơĭ pơm plăt sơnăm giêh anat hrap tơnat truh tuôch sơnăm kung lơ̆p mah sa. Bĭ hưch hanh jal arih pơngot dơnuh, nă Nam pơuh nưih bơ̆i 'yŏk jên ngơ̆n hang sư̆ pơjing rong. Pơtơm nă ruôt đơ̆i minh tŏ kơpô, 'bal tŏ nhŭng adrêch. Gơnơm goh rong kơna kơpô, nhŭng ŭnh hnam nă Nam tih rĕnh tơpă. 'Lơ̆p minh sơnăm nă đơ̆i piêu minh tŏ kon kơpô weng loi minh jĭt tŏ nhŭng kon. Đưng ĕi nă ară ruôt piêu bơbê, lơmo, 'yĕr. Tơpul nhŭng, 'yĕr, bơbê, kơpô dơnŏ hnam nă yuô lơ'noh kơna kang đunh kang lư loi piêu. Hnam nă Nam jing atak hnam rong tih. Nă Jơh pơm sơ̆i hnam, ruôt ti bi, se mĕi.<<<
+>>>Tối nay ở làng Kon Đruch có chiếu bóng. Bọn trẻ con mừng lắm. Đứa nào đứa nấy mắt sáng lên. Gần bảy giờ tối, trong làng nhộn nhịp người đi. Những tiếng gọi nhau ơi ới. Đèn đuốc ở các làng lân cận loang loáng. Những tốp thanh niên vừa đi vừa nói cười vui vẻ. Vui nhất là bọn trê con. Có đứa đến từ chập tối, lấy chổi quét sạch chỗ trước. Có đứa đem cả chiếu xí chỗ. Bọn chúng tôi lớn hơn thì chơi đuổi bắt nhau quanh bãi.|||Kơmăng adrơ̆u, pơlĕi Kon Druch ơĭ chiêŭ phim. Đe hơ'yoh pui adrin. Đĭ đăng kăn hơ măt bu kung rang. Jê̆ truh tơpơh jơ kơmăng, lơ̆m polĕi ring ring bơngai năm. Kăn hơ krau tơ bơ̆l chơnglôk chơnglak. Ŭnh apoih đe polĕi jê̆ jê̆ piêng glip. Đe tơdăm bươ năm bươ đam tơ bơ̆l dĕk hưch hanh. Pui pe loi la đe hơ'yoh. Ơĭ 'nu truh đưng jê̆ kơsơ̆, chă dơnŏ uĕi chơpuih adrol. Ơĭ 'nu chĕp chiêu. Nhơn yä grông loi nhơn sơhmanh tiê̆ rôp tơ bơ̆l tơwang tơmăn.<<<
+>>>Tám giờ bắt đầu chiếu. Tất cả mọi người đều im lặng.|||Tơhngam jơ 'nau chiêu. Đĭ đăng kon pơlĕi uĕi sreh.<<<
+>>>Gần đây, Yôl nghe bố mẹ nói nhiều đến cúm gà. Bố mẹ nhốt đàn gà nhà Yôl ở một khoảnh vườn gần ao. Một ngày bố cho gà ăn hai lần. Bố dặn Yôl:|||Jê̆ hơ ơ̆u, Yôl kơtơ̆ng mĭ 'bă khan lư truh tơdrong 'yĕr kum. Mĭ 'bă gron 'yĕr lơ̆m gơdron jê̆ 'bău. Minh 'năr 'bă ăn 'yĕr sa 'bal 'măng. 'Bă pơkă Yôl:<<<
+>>>Con không được chạm vào gà và phân gà! Khi cho gà ăn, con phải đeo khẩu trang, găng tay. Bệnh cúm gà rất nguy hiểm rất dễ lây.|||Kon nĕ pă beh 'yĕr weng kơ ich hơ yơh! Ăn 'yĕr sa, kon phai hlut pit muh, tơ̆t ti. Jĭ kum 'yĕr gơlaĭ weng 'bônh apoh.<<<
+>>>Gà sống thì ăn được. Nếu gà chết thì phải đốt và chôn xuống đất. Bác sĩ ở trạm xá cũng nói: để giữ gìn sức khỏe, mọi người không nên uống nước lã, không nên ăn thức ăn thiu. Ngủ phải mắc màn. Vùng này nhiều muỗi gây bệnh sốt rét. Nếu bị ốm thì phải đến trạm xá khám để chữa bệnh ngay.|||'Yĕr arih sa khĭ. Tơ̆ng 'yĕr luôch phai soh weng 'bŭ. 'Bak si uĕi tram sa kung khan: sư̆ wĕi grăng, rim bơngai nĕ pă et đak đêch, nĕ pă sa đô sa khung. Năm tep phai tơmăk mung. Apung 'nơ̆u ơĭ lư sơhmĕch 'bônh apoh jĭ lơngoh. Tơ̆ng jĭ phai năm tơ tram sa sư̆ hming.<<<
+>>>Yôl vâng lời và làm theo lời bố dặn.|||Yôl lui 'bơ̆l weng pơm trơ̆ 'bơ̆l bă pơkă.<<<
+>>>gần đây|||jê̆ hơ ơ̆u<<<
+>>>Chiều nay đi học về, Yôl cất tiếng gọi từ ngoài sân nhưng không thấy mẹ thưa. Yôl bỗng thấy lo. Nhà cửa vắng lặng. Không biết mẹ đi đâu. Mọi hôm, khi Yôl đi học về là mẹ đã nấu xong cơm.|||Kơsơ̆ adrơ̆u năm hok sưt, Yôl krau mĭ đưng 'măng cham mă lĕi bĭ kơtơ̆ng mĭ tơ̆l. Yôl chro adrin. Hnam 'măng jokot. Bĭ alê̆ mĭ năm tơyơ. Rim 'năr, Yôl sưt đưng hok la mĭ jơh ơ̆p hơleh ngoh.<<<
+>>>Yôl vào nhà, thấy mẹ đang nằm trên giường. Yôl hỏi:|||Yôl mưt tơ hnam, jơh 'boh mĭ 'bich kơpưng jương. Yôl apinh:<<<
+>>>Có. Chắc là do ăn thức ăn thiu. Mẹ đã uống thuốc nhưng không khỏi.|||Ơĭ. Yuô inh sa đô sa khung. Mĭ joh et bơgang mă lĕi đim glarh.<<<
+>>>Tối nay bố không về. Nếu sáng mai không khỏi thì mẹ sẽ đi trạm xá.|||Kơmăng adrơ̆u 'bă yơĭ sưt. Tơ̆ng bơgê dơning mĭ bĭ glaih jĭ, dĭ ơ̆i kơ-inh mĭ 'nau năm tơ tram sa.<<<
+>>>Không. Mẹ không muốn ăn. Con đi mua cho mẹ thuốc Oresol nhé!|||Yơĭ. Mĭ bĭ wă sa. Kon năm ruôt ăn kơ mĭ bơgang oresol yơh<<<
+>>>Yôl vội đi mua thuốc.|||Yôl rĕnh rĕnh năm ruôt bơgang.<<<
+>>>nấu xong|||ơ̆p hơleh<<<
+>>>Bố Điêu bị ốm|||'Bă đe Dieu jĭ<<<
+>>>Bố Điêu bị ốm nặng. Sáng nay, Yôl cùng bố sang thăm. Yôl thấy bố Điêu đang nằm trên giường, mắt nhắm nghiền, khuôn mặt gầy xọp đi nhiều chỉ sau vài ngày.|||'Bă đe Diêu jĭ adrin. Bơgê adrơ̆u, Yôl adrĭng 'bă năm tơmang. Yôl 'boh 'bă đe Diêu atung 'bich kơpưng jương, măt kơ'nhĭp, adrơ măt akĕ loi đưng rŏng minh 'bal 'năt jĭ.<<<
+>>>Đợi cho bố Điêu thức, bố Yôl hỏi:|||Gô 'bă đe Diêu 'yung, 'bă đe Yôl apinh:<<<
+>>>Rồi. Bác sĩ bảo xương không bị gãy. Chỉ bị bong gân thôi.|||Jơh. 'Bak si khan kơting khĭ dơgơ̆. Yuô hơ eh đêch.<<<
+>>>Mua rồi. Hôm qua cháu Điêu phải xuống Vĩnh Thạnh để mua.|||Ruôt bơih. 'Năr abri mon Diêu phai jul Vinh Thanh sư̆ ruôt bơgang.<<<
+>>>Anh cứ nghỉ ở nhà cho khỏe. Ruộng để tôi cày giúp cho. Nếu có gì cần giúp, anh bảo cháu sang gọi tôi nhé!|||'Nhŏng kư bodơĭ uĕi hăn hnam ăn breh grăng. Bal sư̆ ăn kơ inh pơm tơgŭm ăn. Tơ̆ng ơĭ tơdrong yưng ploh tơgŭm, 'nhŏng krau mon năm krau kơ inh yơh!<<<
+>>>bố của Yôl|||'bă đe Yôl<<<
+>>>Ngày xửa ngày xưa, ở một làng nọ, có một chàng trai trẻ mô côi từ nhỏ, nhà rất nghèo. Anh thường đi trông rẫy thuê cho những nhà giàu ở trong vùng. Một lần, anh đi trông rẫy cho một địa chủ nọ ở tận rừng sâu. Gần tối, đang ngồi ở trong chòi, anh bỗng nghe thấy voi rống ầm âm cùng với tiếng cây đổ gãy răng rắc ở rất gần. Anh vác dao chạy tới thì thấy một con trăn khổng lồ đang cuốn chặt một con voi lớn. Voi dùng vòi bẻ cây đánh trăn nhưng có vẻ như vẫn bị yếu thế hơn. Anh liền xông vào dùng dao chém chết trăn. Voi quì xuống nói với chàng trai:|||Sơ̆ kih sơ̆ kach, uĕi minh pơlĕi 'noh ơĭ minh 'nu tơdăm 'lơ̆p hiong mĭ 'bă đưng ken, hnam hơ dơnuh tơpă. Hơ hanh năm ngŏ mir ăn kơ lu hnam bơdrơ̆ng kuan uĕi lờm apung. Minh 'măng, hơ năm ngơ̆ mir ăn minh ŭnh hnam bơdrŏng uĕi lơ̆m bri hlŏ. Jê̆ kơmăng, atung uĕi lơ̆m gưp, hơ kơtơ̆ng 'bơ̆l ruôih tơsi kueng kueng weng 'long păk ring khing rang khang jê̆ hơ. Hơ bĕng đau kơdơ̆u truh tơ ơ̆i 'boh minh hlak klăn tung tih atung wăl ruôih tih. Ruôih 'yŏk trom gơ̆ 'long tơwing klăn mă lĕi hơ kung bĭ man. Hơ đuôt đau, tơpĕnh koh klăn. Ruôih chơkul kơtăng khan:<<<
+>>>Anh đã cứu tôi. Tôi không có gì để đền đáp. Anh hãy lấy đôi ngà của tôi! Đây là thứ quí giá nhất mà tôi có.|||'Nhŏng jơh dŏng inh. Inh yơĭ tơdrong yưng ăn kơ 'nhŏng. 'Nhŏng 'yŏk 'bal hlak bơla inh 'nơ̆u yơh! 'Nơ̆u la tơmam ram lưng loi mă inh ơĭ.<<<
+>>>Chàng trai vui vẻ nhận lấy. Voi lại nói tiếp:|||Hơ pui pe 'yŏk. Ruôih khan piêu:<<<
+>>>Khi đi ngủ, anh nhớ lấy một ngà gối đầu, một ngà gác chân. Rồi anh sẽ có những gì anh muốn.|||Tơ̆ng năm tep, nhŏng 'blŏk 'yŏk minh hlak bơla sơn kơ̆l, minh hlak sơn jưng. Đưng rŏng 'noh, 'nhŏng wă, yưng kung đơ̆i.<<<
+>>>Chàng trai cầm đôi ngà voi đi thẳng về nhà. Sáng hôm sau, anh lại vào rừng trông rẫy. Chiều tối về nhà, anh rất ngạc nhiên khi thấy nhà cửa gọn gàng, sạch sẽ. Mấy ngày sau anh đều thấy như vậy. Anh nghĩ có người tốt bụng nào đó giúp mình. Anh quyết định phải tìm ra người đó.|||Hơ chĕp 'bal hlak bơla ruôih năm sưt tơ hnam. Bơgê dơning hơ năm mưt tơ bri sư̆ ngơ̆ mir piêu. Kơsơ̆ yư̆m yư̆m hơ sưt tơ hnam jơh 'boh lơ̆m hnam wôi iêl weng ngoh 'nhem nham. Dôm 'năr đưng rŏng kung lĭ ơ̆i. Hơ chro ơĭ bơngai klak liêm pơm ăn hơ. Hơ phai chă pơlêch bơngai pơm todrong 'noh.<<<
+>>>Một hôm, anh giả vờ vác dao đi rẫy sớm. Đi được một đoạn, anh lén quay lại nhà. Từ bên ngoài, anh nghe rõ tiếng hai cô gái trẻ nói cười với nhau rất vui vẻ. Anh bước vào thì thấy đó là hai cô gái vô cùng xinh đẹp. Anh nói:|||Minh 'măng, hơ plach năm tơ mir. Đưng rŏng 'noh, hơ năm bơdô̆ hăn kơdŭ hnam. Đưng gah, hơ kotơ̆ng 'bơ̆l 'bal 'nu adruh pơđam 'bơ̆l hưch hanh. Hơ mưt lơ̆m hnam 'boh 'bal 'nu adruh liêm loi kơ yang rang loi kơ 'năr. Hơ khan:<<<
+>>>Nếu hai nàng không chê tôi nghèo thì hãy cùng ở đây kết duyên vợ chồng?|||Tơ̆ng bih bia khĭ chê inh dơnuh bih 'yŏk inh pơm tơhnglo hăm khĭ?<<<
+>>>Hai cô gái e lệ gật đầu đồng ý. Hôm đó, dân làng ca hát, uống rượu suốt đêm để mừng cho hạnh phúc của chàng trai.|||Pre bia mơlơ̆u kup kơ̆l. Kon pơlĕi kơmăng mă 'noh et sơdrô joh hơlŏng minh măng truh chơdah sư̆ pui ăn hơ.<<<
+>>>Ngày uống ba lần, mỗi lần uống hai viên, trước bữa ăn. Uống hết thuốc, nếu không khỏi thì cháu đến trạm xá nhé.|||Minh 'năr et pêng 'măng. Minh 'măng et 'bal gĕl adrol kơ sa. Et đĭ bơgang, tơ̆ng bĭ glaih mon khan mĭ năm tramớa piêu yoh.<<<
+>>>Trạm xá xã Vĩnh Sơn là một dãy nhà nhỏ năm ở trung tâm xã. Kể từ khi có trạm xá, đây mới là lần đầu tiên Yôl bước vào.|||Tram sa sa Vinh Sơn la minh tŏ hnam đuôĭ ken uĕi tơ̆k bơ̆k sa. Đưng rŏng ơĭ tram sa, 'nơ̆u la 'năr pơtơm Yôl mưt.<<<
+>>>Yôl nhìn thấy một phụ nữ mặc bộ quân áo trắng, khoảng ba mươi tuổi. Mẹ Yôl bảo đó là bác sĩ. Bác sĩ hỏi mẹ Yôl:|||Yôl ngŏ 'boh mỉnh 'nu mai kon kơdiŏng srơ̆p kuơ̆n au kok, dang pêng jĭt sơnăm. Mĭ đe Yôl khan 'noh la 'bak si. 'Bak sỉ apinh mĭ đe Yôl:<<<
+>>>Bác sĩ khám cho Yôl rồi nói:|||'Bak si kham ăn kơ Yôl đưng răng 'noh khan:<<<
+>>>khám cho Yôl|||kham ăn kơ Yôl<<<
+>>>Ba ngày nữa mới đến thứ bảy à?|||Pêng 'năr piêu 'nau truh thư̆ tơpơh yơh?<<<
+>>>Hôm qua Hải nhờ mình báo cho Tâm ải học, nhân tiện mình muốn rủ cậu xuống nhà Tâm chơi.|||Abrni Hai ploh inh akhan Tơ̆m năm hok kơphăi kơna hơ-ơ̆u hnhŭk e năm jul hnam Tơ̆m sơhmanh.<<<
+>>>Thôi kệ, để đến chủ nhật tuần sau hãy xuống.|||Chăng hơ, sư̆ truh 'năr thư tơhngam tuơ̆n đưng rŏng 'nau jul.<<<
+>>>Không được, bốn ngày nữa thì lâu quá. Ngày kia Tâm phải đến trường rồi.|||Bĭ đơ̆i, puôn 'năr piêu đunh tơpă. 'Năr dơnuônh Tơ̆m phai truh tơ trương.<<<
+>>>Thế thì cậu đi đi. Tớ bận không đi được.|||Yăh thoi ĕi e năm kh. Inh jang bĭ đơ̆i năm.<<<
+>>>Cháu đố bà: Một năm có mấy tháng?|||Yă hăm alê̆ ưh: Minh sơnăm ơĭ dôm khĕi?<<<
+>>>Thế mà bà cũng không biết. Một năm có mười hai tháng. Tháng một, tháng hai, tháng ba, tháng tư, tháng năm, tháng sáu, tháng bảy, tháng tám, tháng chín, tháng mười, tháng mười một, tháng mười hai.|||Dang 'noh yă kung bĭ alê̆. Minh sơnăm ơĭ minh jĭt 'bal khĕi. Khĕi minh, khĕi 'bal, khĕi pêng, khĕi puôn, khĕi pơđăm, khĕi dơdrơ̆u, khĕi tơpơh, khĕi tơhngam, khĕi sin, khĕi minh jĭt, khĕi minh jĭt minh, khĕi minh jĭt 'bal.<<<
+>>>Có bốn buổi: buổi sáng, buổi trưa, buổi chiều và buổi tối. Bà thua chưa?|||Ơi puôn 'buôi đêch: trong bơgê, trong 'năr dưng, trong kơsơ̆, trong kơmăng. Yă tam thuô đim?<<<
+>>>Chưa. Đố tiếp nhé: Một tuần có mấy ngày?|||Đim. Thư năng piêu: Minh tuơ̆n ơĭ dôm 'năr?<<<
+>>>Một tuần có bảy ngày. Thứ hai, thứ ba, thứ tư, thứ năm, thứ sáu, thứ bảy và chủ nhật.|||Minh tuơ̆n ơĭ tơpơh 'năr. Thư̆ 'bal, thư̆ pêng, thư̆ puôn, thư̆̆ pơđăm, thư̆ dơdrơ̆u weng chu nhơ̆t.<<<
+>>>Người già kể rằng từ ngày xưa, làng Ba na đã có một nhà sàn lớn nhất, đẹp nhất gọi là nhà rông. Nhà rông thể hiện sự thịnh vượng của làng.|||Bơngai kră roi tơdrong sơ̆, pơlĕi Bơhnar ơĭ minh tŏ hnam grông loi đĭ đăng, liêm loi đi đăng, khan hnam wal. Hnam wal ăn 'boh bơdrŏng kuan lơ̆m pơlĕi.<<<
+>>>Nhà rông rất cao. Hai mái đằng trước và đằng sau dốc đứng. Trên đỉnh có những cây mây đan theo các hình khác nhau. Bên trong nhà rông, người Ba na đặt nhiều bếp lửa, treo nhiều cồng, chiêng, trống, cung tên và giáo mác. Có làng còn dựng một cây cột lớn ở giữa nhà rông. Trên đỉnh cột khắc hình các thần linh.|||Hnam wal đuôĭ tơpă. 'Bal pah til jroh. Kơpưng chơdŏng hnam wal ơĭ lư tơlĕi hre tanh lư tơdrong kơdih tơ bơ̆l. Lơ̆m hnam wal, bơngai Bơhnar sư̆ tơnuh ŭnh hơ'măk lư chĭng chêng, jơgơ̆l, sră 'brưm, tak. Ơĭ pơlĕi ară bơdưng minh hlak 'long jrăng grông uĕi tơ̆k bơ̆k hnam wal. Kơpưng jrăng srĕ hĭnh đe Yang.<<<
+>>>Vì là nơi lưu giữ những giá trị truyền thống của buôn làng nên nhà rông được mọi người gìn giữ rất cẩn thận. Nhà rông là nơi diễn ra các lễ hội, là nơi tiếp đón khách, là nơi hội họp của dân làng, cũng là nơi để thanh niên nam nữ đến gặp gỡ, tỏ tình và kết duyên vợ chồng.|||Yuô la dơnŏ sư̆ tơdrong kră sơ̆ kơna hnam wal đơ̆i lư bơngai 'mem weng wĕi. Hnam wal la dơnê̆ gô răp tơmoi, la dơnơ̆ kon pơlĕi akŏm, kung la dơnơ̆ đe tơdăm, đe adruh truh sư̆ tơjrưm, wă tơ bơ̆l weng srôp kơdiơ̆ng, srôp tơhnglo.<<<
+>>>Hàng năm, khi mùa xuân về, dân làng bắt đầu tổ chức lễ đâm trâu. Đầu tiên là dựng cột chính. Người ta vào rừng chặt cây cóc to, thẳng, cao để buộc trâu. Cột được dựng giữa với bốn cột phụ ở xung quanh. Bốn cột này được các nghệ nhân khéo tay chạm trổ những hình rất đẹp như: mặt trời, mặt trăng, chim, khỉ.. Cột được dựng giữa sân nhà rông. Đến ngày ăn trâu, người ta chọn một con trâu to khỏe nhất, hung dữ nhất buộc vào cột.|||Rim sơnăm, truh yan puih, minh pơlĕi bơgrong sa kơpô. Pơtơm loi, pơm gưng sư̆ chô̆ kơpô. Ðe năm tơ bri koh 'long sơhmuôn grông, tơpăt, đuôĭ sư̆ pơm gưng tơ̆k bơ̆k weng puôn hlak 'long pơdah pơtăm dal wang gưng. Đe kră alê̆ khơh agĕi điah puôn hlak 'long 'noh tôm tơdrong liêm. Đe điah lư tơdrong liêm tơpă: măt khĕi, măt 'năr, sem, đŏk.. gư̆ng đơ̆i pơdưng tơ̆k bơ̆k măng cham awal. Truh 'năr sa kơpô, đe năm chă kơpô tih grông loi, chơđŏk nưih dêh sư̆ tơmưt lơ̆m gưng.<<<
+>>>Đến tối, những người già trong làng đọc bài cúng Giàng, cầu cho mưa thuận gió hòa, nhiều thóc lúa và không ốm đau bệnh tật, trong tiếng cồng chiêng trầm hùng. Người ta đâm trâu và cắt đầu nó treo lên cột chính, chia thịt trâu cho mọi người cùng ăn. Cả làng uống rượu, ăn thịt trâu và nhảy múa. Đến tối, thanh niên nam nữ đốt lửa. Lễ hội đâm trâu kéo dài ba ngày ba đêm mới kết thúc.|||Truh măng 'năr bơgrong sa kơpô, đe kră pơlĕi sơmah tơkal yang weng hmăng yang ăn 'mi prăng măng sođah, lư hơ'bo 'ba, khĭ jĭ luôch tuôch, hiong 'bơ̆l chĭng cheng, 'bơ̆l tơkach tơkal yang. Đe tăm kơpô puôt 'yŏk kơ̆l atol hăn gư̆ng, asong asĕch ăn kơ đe kon pơlĕi sa. Đĭ đăng minh pơlĕi sa asĕch et sơdrô joh suang. Truh kơmăng, đe adruh tơdăm soh ŭnh. Bơgrong sa kơpô lơ̆m pêng năr pêng măng aleh.<<<
+>>>Ở Bình Định có những dân tộc nào?|||Uĕi 'Binh Đinh đơ̆i dôm adrêch kon kông?<<<
+>>>Có dân tộc Hrê, dân tộc Ba na, Chăm, Kinh ..|||Ơĭ bơngai Hrê, bơngai Bơhnar, bơngai Chăm, bơngai Yuăn..<<<
+>>>Bình Định có người Gia rai không? :|||'Binh Đinh hăm ơĭ bơngai Jorai?<<<
+>>>Ở Bình Định, người Ba na ở vùng nào?|||Lơ̆m 'Binh Đinh, bơngai Bơhnar uĕi lơ̆m apung mă như?<<<
+>>>Ở Vĩnh Thạnh là đông nhất.|||Uĕi Vinh Thanh lư loi.<<<
+>>>Ở các tỉnh khác có người Ba na không?|||Tơnglơ̆i tinh đe nai hăm ơĭ bơngal Bơhnar arih?<<<
+>>>Có. Người Ba na cũng còn có ở Gia Lai, Kon Tum. Tiếng Ba na ở Vĩnh Thạnh cũng giống tiếng Ba na Gia Lai, Kon Tum.|||Ơi. Bơngai Bơhnar ară uĕi Ja Lai, Kon Tum. 'Bơ̆l Bơhnar uĕi Vinh Thanh hăm in 'bơ̆l Boơhnar uĕi Ja Lai, Kon Tum..<<<
+>>>Người Ba na ở đây đã lâu chưa?|||Bơngai Bơhnar lĭ ơ̆u uĕi tơ ơ̆u tam đunh?<<<
+>>>Lâu lắm rồi. Người Ba na là người đầu tiên đến đây.|||Jơh dunh. Bơngai Bahnar la bơngai truh tơ ơ̆u adrol loi.<<<
+>>>Người Ba na ở vùng nào?|||Bơngai Bơhnar uĕi lơ̆m apung mă như?<<<
+>>>ở Vĩnh Thạnh nhiều nhất.|||uĕi Vinh Thanh lư loi.<<<
+>>>Bình Định có người Gia rai không?|||'Binh Đinh hăm ơĭ bơngai Jơrai?<<<
+>>>Ngày xưa, trời và đất vẫn còn gần nhau. Có hai vợ chồng đã nhiều tuổi nhưng vẫn chưa có con. Họ rất buồn. Một hôm họ bàn với nhau lên trời xin một đứa con. Đường sá xa xôi, núi non hiểm trở. Hai vợ chồng vất vả lắm mới đến được cửa trời. Nghe họ kế, Trời thấy thương quá, liền lấy một nắm hạt giống đưa cho họ và dặn: Về đến nhà mới được uống. Hai vợ chồng vui mừng ra về. Họ mong chóng về đến nhà để được có con. Đến một chỗ nghỉ, hai người lấy hạt giống ra xem.|||Năr sơ̆, plềnh weng kơ teh ară jê̆ tơ bơ̆l. Ơĭ 'bal 'nu yă 'bok sơnăm jơh lư mă lĕi bŏng đim ơĭ kon. Pre hơ Jjuô Jot. Minh 'măng pre pơđam 'bơ̆l suôn tơ plĕnh sư̆ aping Yang ăn kơ pre hơ minh 'nu kon. Trong hlŏ hlang, bri kông klăm kleng chơhleng chơhlot. Pre yă 'bok giêh glang adrin 'nau truh 'măng. Kơtơ̆ng pre hơ roi, Yang 'mem adrin, đưng rŏng ĕi, 'yŏk minh chơnŭp adrêch ăn pre hơ. Yang pơkă: Sưt truh tơ hnam 'nau et. Pre yă 'bok hưch hanh sưt. Pre hơ dih plơh truh hnam rĕnh rĕnh sư̆ đơ̆i đeh kon. Truh dơnŏ podơi, pre hơ 'yŏk adrêch ngŏ.<<<
+>>>Vì sốt ruột nên người vợ lấy hạt giống cho luôn vào miệng, quên cả lời dặn của Trời. Ngay sau đó, trên đường đi bà đẻ ra rất nhiều đứa con. Đứa nào sinh ra ở đâu, hai người đặt tên cho chúng theo địa điểm đó. Dần dần những đứa trẻ lớn lên, lấy chồng, lấy vợ, sinh con đẻ cái lập nên xóm làng. Họ chính là tổ tiên của người Ê đê, Gia rai, Ba na, Chru, Hrê.. ngày nay.|||Yuô wă tơtam nưih kơna kơdiŏng hơ 'yŏk adrêch biêt lơ̆m 'bơ̆l, hiơt yang pơkă. Đưng rŏng 'noh, năm rok trong, kơdiŏng hơ đeh lư 'nu kon. Bu đeh hăn như, pre hơ atăk măt tiê̆ apung mă 'noh. Đưng rŏng ĕi, đe hơ'yoh grông, 'yŏk tơhnglo, 'yŏk kơdiŏng đeh kon, pơm jing pơlĕi. Kăn hơ la jĕl 'bok ư 'bok ach đe kon kông Ê Đê, Jorai, Bơhnar, Jru, Hrê.. ahrĕi ơ̆u.<<<
+>>>Nhà Yôl ở ngay gần rừng. Trong rừng có rất nhiều cây cối, chìm thú, có dòng suối uốn lượn giữa rừng, có những bông hoa trông là lạ, rất đẹp. Yôl thường hái hoa về tặng mẹ. Những ngày không đi học, Yôl thường theo bố săn con chồn, con mang.. trong rừng. Có khi săn được cả lợn rừng.|||Hnam Yôl uĕi jê̆ bri. Lơ̆m bri ơĭ lư 'long tơlĕi, sem bri, ơ̆i sơđiêng đak đŏng đeu 'yol tơ̆k bơ̆k bri, ơĭ lư pơkau lă lă, liêm adrin. Yôl dach hleh pơkau ăn kơ mĭ. Lơ̆m 'năr yơĭ năm hok, Yôl hanh tiê̆ 'bă năm riêng chơpik, jil. lơ̆m bri. Đunh đunh kung prah đơ̆i chơke.<<<
+>>>Tuy nhiên, bây giờ thì khác rồi. Trong làng không ai chặt phá, săn bắn bừa bãi nữa. Già làng nói: rừng vàng biển bạc. Rừng đem lại cho chúng ta gỗ để làm nhà cửa, củi để đun nấu. Nếu biết cách khai thác, chúng ta có thể làm giàu từ rừng. Chính vì vậy, ta phải cùng nhau bảo vệ rừng. Không phá rừng, không săn bắn trong rừng, không đốt lửa trong rừng và ngăn chặn kẻ xấu phá rừng.|||Mă lĕi adrơ̆u kơdih loi kơ sơ̆. Lơ̆m pơlĕi yơĭ mưih kăl, năm ayô pơkuê̆ pơkuă piêu. Kră pơlĕi khan: bri maih tơsĭ glang. Bri chĕp ăn kơ bơ̆n 'long pơm hnam,'long ŭnh sư̆ ơ̆p ngoh 'nhĕm, ơ̆p đak. Tơ̆ng alê̆ trong pơm sa tơnglơ̆i bri 'noh ăn kơ bơ̆n pơm sa đơ̆i bơdrŏng kuan. Yuô lơ̆i, đĭ bơ̆n phai adrĭng wĕi ngŏ bri. Nĕ năm ayô sem bri, nĕ mưih kăl 'long bri, nĕ soh ŭnh lơ̆m bri weng nĕ pă ăn bơngai klak brư̆ mưih kăl 'long bri.<<<
+>>>Càng lớn lên, Yôl càng yêu rừng và luôn làm theo lời của già làng.|||Kang grông Yôl kang 'mem bri weng pơm trŏ in 'bơ̆l kră pơlĕi pơkă.<<<
+>>>Ừ, rừng rậm nên có nhiều chim.|||Ư̆: bri hơmôl kơna lư sem.<<<
+>>>Bác biết được bao nhiêu loài chim?|||Nă alê̆ đơ̆i dôm adrêch sem?<<<
+>>>Cũng ít thôi. Loại to thì có đại bàng, diều hâu, công. Loại nhỏ thì có vẹt, nhồng, chào mào..|||Kơtuôih đêch. Alê̆ sem grông thoi klang, klang pơsum, sem kơwơng.. Sem ken thoi diê̆, jong, pơliêu..<<<
+>>>Chim nào hót hay nhất hở bác?|||Sem mă yơ tơsi liêm loi ơ nă?<<<
+>>>Có nhiều loài chim hót hay như: vành khuyên, nhồng, cu đất nhưng chim vành khuyên hót hay nhất.|||Ơĭ lư adrêch sem tơsi liêm: sem blang kĕi, jong, kơtơp, mă lĕi sem blang kĕi tơsi liêm loi.<<<
+>>>Vẹt và nhông chim nào đẹp hơn?|||Diê̆ weng jong sem mă yơ liêm loi?<<<
+>>>Hai loài đẹp như nhau.|||'Bal adrêch sem liêm dang dang.<<<
+>>>Thỉnh thoảng thôi. Bây giờ chim càng ngày càng ít. Có đi cũng chẳng được.|||Đunh đunh kung ơĭ. Ahrĕi ơ̆u sem kang 'năr kang biê̆. Ơĭ năm pơm kung bĭ đơ̆i sem.<<<
+>>>Chim nào hót hay nhất hở bác?|||Sem mă yơ tơsi liêm loi ơ nă?<<<
+>>>Vẹt và nhông chim nào đẹp hơn?|||Diê̆ weng jong sem mă yơ liêm loi?<<<
+>>>Lâu lắm, hôm nay Yôl mới thấy ánh nắng mặt trời. Ánh nắng ấm áp bắt đâu chiếu rọi khắp bản làng, núi rừng, xua tan những ngày dài âm u, lạnh giá.|||Đunh tơpă 'năr adrơ̆u Yôl 'nau 'boh jơdră tŏ măt 'năr. Sră tơnŏ tơnăn pơtơm jơdră jơ̆p jang pơla plĕi weng bri kông, druh adrang lư 'năr ư̆m lơngoh sơhngeu.<<<
+>>>Trời như sáng hơn, cao hơn, xanh hơn. Những cành cây trơ trụi lá hôm nào giờ đang đua nhau đâm chồi, nảy lộc. Dưới đám lá khô đã bắt đầu mục, cỏ mọc lên tua tủa. Rừng cây trước mặt không còn vàng úa nữa. Một màu xanh non tơ cứ trải dài theo ánh mắt của Yôl. Mấy chú chim sâu không biết từ đâu lại trở về rúc ra rúc rích sau vườn nhà. Chúng thi nhau nhảy nhót, nghiêng nghiêng, ngó ngó, chuyền hết cành này sang cành khác xem chừng vui sướng lắm.|||Plĕnh rang loi, kơjung loi, kơsĕ loi. Lư sơgiêng 'long hla jruh đĭ layơ ahrĕi ơ̆u tơgal srôh hla 'lơ̆p. Ala hla paih khô jơh jê̆ ôm 'nhăt hon lư lang lư lap. 'Long bri anô̆ măt bĭ ơĭ ară 'brơ̆u in yơ̆u. Minh bri kơsĕ lơ̆p să lang tang tơmang tuôch măt Yôl. Dôm 'nơ̆u mă sem ken bĭ lê̆ đưng như wih sưt truh tơ-ơ̆u asiu asău gah rŏng mir hnam. Kăn sưh sơhmanh tơpĕnh tơpol asĕng asĕng, kleng kleng sơgiêng 'long nơ̆u apoh sơgiêng 'long nai, chro hyôk hiăn tơpă.<<<
+>>>Yôl cũng thấy mình vui vui. Em tự nhủ: Dù còn nhiều khó khăn nhưng mình sẽ cố sắng học tập. Nhất định mình phải góp sức làm cho mùa xuân của quê hương càng ngày càng đẹp hơn.|||Yôl kung 'boh akău kơdĭh pui pui. Hơ chro. Kơdih ơĭ lư tơdrong hrap tơnat dang như mă lê̆i inh adrin hok truh geh. Nhơ̆t đinh inh phai chĕp pơđĭ sơhngơ̆m pran pơm ăn yan puih teh chal kang 'năr kang lư tơdrong 'lưng liêm loi.<<<
+>>>Cỏ mọc tua tủa|||'Nhăt hon lư lang lư lap<<<
+>>>Ở Vĩnh Sơn có hay cháy rừng không?|||Uĕi Vinh Sơn ĭnh hăm ơĭ sa bri dach ưh?<<<
+>>>Vì sao lại hay cháy vào tháng ba và tháng tư?|||Yuô yưng ŭnh hanh sa bri lơ̆m khĕi pêng khĕi puôn?<<<
+>>>Vì lúc đó người ta hay phát rẫy. Đợi cây khô rồi đốt. Lửa từ rẫy lan ra rừng. Càng hay đốt rẫy thì càng hay cháy rừng.|||Yuô khĕi mă 'noh bơ̆n soh mir. Kăn hơ mưih mir, gô 'long sriêng hŏnh 'nau soh. Ŭnh sa mir tơpoh sa bri. Kang lư bơngai soh mĭr, lĭnh sa bri kang lư.<<<
+>>>Thế không đốt rẫy thì không cháy rừng à?|||Yơ̆i soh mĭr ŭnh yơĭ sa bri ah?<<<
+>>>Có cháy nhưng ít hơn. Đến mùa khô người ta nướng ngô, đốt ong, có khi do rơi tàn thuốc lá.. không khéo là cháy rừng ngay.|||Ơĭ, mă lĕi biê̆ loi. Truh khĕi tŏ phang đe 'yoh 'buh sa hơ'bo, bơngai kră năm sông sut, ơĭ 'noh yuô hep thuôk. Bĭ kheŭ ŭnh sa bri.<<<
+>>>Thế người ta không dập lửa à?|||Tơnglơ̆i đe yơĭ pĭt ŭnh ah?<<<
+>>>Có chứ. Nếu cháy rừng thì tất cả chúng tôi cùng dập lửa. Nếu cháy to thì không dập được.|||Ơĭ han. Tơ̆ng ŭnh sa bri đĭ đăng kơ nhơn bu kung năm pĭt. Mă lê̆i ŭnh sa bri jơh dêh tơnglơ̆i pĭt bĭ đơ̆i.<<<
+>>>Thế thì phải làm gì?|||Tơnglơ̆i phai pơm lĭ như?<<<
+>>>Sông Kôn|||Krong 'Bung<<<
+>>>Ở Bình Định có một dòng sông rất đẹp nhưng cũng rất hung dữ. Đó là sông Kôn. Sông chảy từ vùng núi cao xuống đồng bằng, sau đó đổ ra biển. Vào mùa mưa, nước từ đầu nguồn đổ về làm nước sông dâng lên cuồn cuộn, cuốn phăng tất cả những vật cản trên đường đi của nó. Cách xa bờ sôngvvẫn nghe tiếng nước chẩy ầm ầm.|||Uĕi 'Binh Đinh, ơĭ minh hlak krong liêm adrin mă lĕi kung nưih brư̆ tơpă. 'Noh la krong 'Bung. Krong 'yol đưng bri kông đuôĭ jul truh tơmăn đưng rŏng 'yol mưt tơsĭ. Yan 'mi, đak đưng tu 'yol pơm ăn đak krong 'Bung grông, 'yol tơkul tơkul, pơđơng đĭ đăng tơdrong yưng uĕi lơ̆m trong hơ 'yol. Uĕi đưng hlŏ kung kơtơ̆ng đak 'yol phung phung.<<<
+>>>Vào những ngày này, bố Yôl và dân làng thường hay ra sông vớt củi về đun. Thỉnh thoảng, họ còn vớt được cả nai, lợn rừng.|||Lơ̆m 'năr mă 'noh, 'bă đe Yôl weng kon pơlĕi hanh năm tơ krong 'yŏk 'long ŭnh chĕp sưt 'buh. Ơĭ 'noh, kăn hơ ară 'yŏk đơ̆i chơke weng juôi.<<<
+>>>Vào mùa khô, dòng sông cạn nước, để lộ ra những phiến đá đen đen nằm trơ trơ ở giữa lòng sông. Trong số đó có một phiến đá có khắc một dòng chữ cổ mà cho tới nay vẫn chưa ai dịch được. Người Ba na gọi là đá Hơ Biên và họ có cả một truyền thuyết về phiến đá này.|||Lơ̆m yan tŏ phang, krong sriê̆, tơmo lêch hlôl hlal, găm găm uĕi tơ̆k bơ̆k krong. Lơ̆m tơmo lư 'noh, ơĭ minh tŏ tơmo kơpưng hơ ơĭ srĕ minh trong chư kră sơ̆. Truh adrơ̆u đim ơĭ bu jich đơ̆i trong chư 'noh. Bơngai Bơhnar khan 'noh la tơmo Hơ 'Biên weng đe kră sơ̆ kung ơĭ roi tơdrong tơmo 'noh.<<<
+>>>Yôl rất yêu sông Kôn vì nó sống với dòng sông Kôn từ nhỏ.|||Yôl 'mem krong 'Bung yuô hơ arih adrĭng krong 'Bung đưng ken.<<<
+>>>Trăng sáng ở vùng cao|||Khĕi rang uĕi apung đuôĭ<<<
+>>>Đến mùa khô, đêm ở vùng cao hơi lạnh. Trời như cao hơn. Gió thổi mạnh. Vầng trăng thong thả dạo chơi trên vòm trời, tỏa sáng địu dàng xuống núi rừng, xuống những buôn làng người Ba na, Hrê, Chăm Hroi..|||Truh yan puih, kơmăng uĕi apung đuôĭ kơtơ̆ng sơhngeu sơhngeu. Plĕnh bơ̆n 'boh in kang đuôĭ loi. Kial thuôl dêh. Khĕi adal adal năm sơhmanh tơklep dĭ akal plĕnh, brêng brang jơdră sră rang adal adal jul kông bri, jul lư pơlĕi pơla bơngai Bơhnar, Hre, Chăm Hrol..<<<
+>>>Ở những buôn làng người Ba na, lúa đã tuốt về đầy ắp trong những kho cạnh nhà. Năm nay được mùa. Làng nào cũng nhộn nhịp chuẩn bị lễ hội mừng lúa mới. Tối đến, nhà nào cũng đốt lửa sáng rực. Tiếng cối giã lúa thình thịch xen lẫn với tiếng trẻ con chơi trò trốn tìm cười khúc khích.|||Uĕi lư pơlĕi pơla bơngai Bơhnar, 'ba jơh kêch sưt bĕnh sum jê̆ hnam. Sơnăm ơ̆u đơ̆i 'ba lư lang. Pơlĕi mă yơ kung năm năm sưt sưt achuing achuang hưch hanh wă jê̆ măng 'năr sa mŏk. Kơmăng truh hnam mă yơ kung chŭt ŭnh rang jơdah. 'Bơ̆l teh tơpal peh 'ba ping pung blă blă adring 'bơ̆l đe hơ 'yoh tơkrau bơdô̆ chă weng bơ̆l dĕk hơh hah.<<<
+>>>Đêm càng về khuya trăng càng sáng hơn. Có ai đó đang thổi kèn. Tiếng kèn rộn ràng như bay lên cùng trăng.|||Kơmăng kang jê̆ klŏk măng khĕi kang rang thê̆ loi. Ơĭ bu 'nĕi arĕ thuôi 'lal. 'Bơ̆l 'lal re wêl wêl apal 'yung tiê̆ adơi khĕi.<<<
+>>>Thăm thủ đô Hà Nội|||Năm tơmang thŭ đô Ha Nôi<<<
+>>>Anh Boong học rất giỏi. Cuối năm học, anh được tỉnh Bình Định cho ra thăm thủ đô Hà Nội. Về đến nhà, Boong say sưa kể chuyện thủ đô cho cả nhà nghe. Bố hỏi Boong:|||'Nhŏng 'Bong hok agĕi tơpă. Đĭ sơnăm hok 'nhŏng đơ̆i tĭnh 'Binh Đinh ăn lêch năm tơmang thŭ đô Ha Nôi. Sưt truh hnam, 'Bong pơđam đĭ lơ̆m tơdrong 'lưng liêm uĕi thŭ đô ăn đĭ ŭnh hnam kơtơ̆ng. 'Bă apinh 'Bong:<<<
+>>>Hà Nội có xa không?|||Ha Nôi hăm hlŏ?<<<
+>>>Xa lắm. Từ đây đến Hà Nội dài một ngàn hai trăm cây số.|||Hlŏ dêh. Đưng ơ̆u truh Ha Nôi hlŏ minh hơbơ̆u 'bal hriêng kơsô̆.<<<
+>>>Chúng con đi bằng tàu hỏa.|||Nhơn kon năm tău hua.<<<
+>>>Ở Hà Nội con được đi xem những nơi nào?|||Uĕi Ha Nôi kon đơ̆i năm tơmang dôm dơnŏ mă như?<<<
+>>>Đầu tiên con được đi thăm lăng Bác, được vào lăng viếng Bác. Sau đó chúng con được đi thăm chùa Một Cột, hồ Hoàn Kiếm, vườn Bách thú. Nơi nào cũng đẹp nhưng con thích nhất là Bảo tàng Dân tộc học. Ở đấy trưng bày trang phục, dụng cụ lao động, nhà cửa của nhiều dân tộc khác nhau.|||Adrol nhơn kon năm tơmang lăng Nă, đơ̆i mưt hnhĕi Nă lơ̆m hnam. Đưng rŏng ĕi nhơn kon đơ̆i năm tơmang chuô minh hlak jrăng, 'bău Hoan Kiêm, bri rong sem. Dơnŏ mă như kung liêm mă lĕi kon 'moih loi la 'Bau tang jơ̆n tŭk hok. Uĕi hăn ĕi tơbang đĭ đăng tơmam ram, tơdrong amuô̆, tơdrong pơm sa sung dơbưk 'nhik jơdrap weng kang kưt rim kon kông leng ơĭ..<<<
+>>>Nghe Boong kể, bé Thêm thích lắm. Thêm nói với bố:|||Kơtơ̆ng 'Bong pơđam, oh Thêm 'moih tơpă. Thêm khan sơ̆m 'bă:<<<
+>>>Con muốn được đi thăm thủ đô Hà Nội như anh Boong:.|||Kon wă đơ̆i năm tơmang thŭ đô Ha Nôi in 'nhŏng 'Bong.<<<
+>>>Bố xoa đầu Thêm bảo:|||'Bă abloch kơ̆l Thêm khan:<<<
+>>>Đất nước Việt Nam|||Teh đak Viêt Nam<<<
+>>>Nước Việt Nam cong cong hình chữ S. Phía bắc giáp Trung Quốc, phía tây giáp Lào và Campuchia, phía đông và phía nam giáp biển.|||Teh đak Viêt Nam đŏng đŏng in chư̆ S. Gah 'băk atơ̆t Trung Kuôk, gah 'năr mưt atơ̆t teh đak Lau weng teh đak Kămpuchia, gah 'năr lêch weng gah krong atơ̆t đak tơsĭ.<<<
+>>>Nước ta giàu và đẹp. Trên rừng có nhiều gỗ tốt. Dưới biển có lắm cá, tôm. Trong lòng đất có nhiều khoáng sản quý: vàng, bạc, sắt.. Nước ta nắng lắm, mưa nhiều, cây cối quanh năm xanh tốt, có nhiều núi nhiều sông và nhiều thắng cảnh đẹp: vịnh Hạ Long, biển Nha Trang, động Phong Nha.|||Teh đak bơ̆n bơdrŏng weng liêm. Lơ̆m bri đơ̆i lư hlak 'long ăl kơjăp. Lơ̆m đak tơsĭ ơĭ lư ka kơtĕi. Lơ̆m teh ơĭ lư tơdrong gĭt gă kơnă jên: maih, klang, pơsĕi. Teh đak bơ̆n tŏ lư 'mi dêh, 'long tơlĕi tăp sơnăm kơsĕ liêm, ơĭ lư kông lư đak krong weng lư dơnŏ sang glang dang: vinh Hă Lŏng, tơsĭ Nha Trang, trôm gôp Phŏng Nha..<<<
+>>>Nước ta có năm mươi tư dân tộc anh em. Mỗi dân tộc có một phong tục tập quán riêng nhưng tất cả đều chung sống đoàn kết bên nhau. Nhân dân ta không những anh dũng, kiên cường trong chiến đấu mà còn cần cù, chịu khó trong lao động. Dưới sự lãnh đạo của Đảng, nhân dân ta đang ra sức thi đua lao động sản xuất, quyết tâm xây dựng đất nước ngày một tươi đẹp hơn.|||Teh đak bơ̆n đơ̆i pơđăm jĭt puôn adrêch kon kông 'nhŏng oh. Minh tŏ jơ̆n tŭk kon kông ơĭ tơdrong diêng diêu sơmah sơmat krĕi krĕi mă lĕi lơ̆m jăl arih đoan kêt jơnŭm jơnăm thoi minh tŏ mĭ 'bă. Kon bơngai lơ̆m teh đak bơ̆n sơbŏ minh tơdrong tơblah 'bĕt ayăt mơng kơtang ară agĕi pơnam tơnui pơm sa. Ahrĕi đơ̆i Đang pơgơl đĭ đăng kon bơngai lơ̆m teh đak adrin tơjroh tơjrot pơm jang sa, chĕp đĭ sơhngơ̆m pran sư̆ tơ'yung teh đak kang đunh kang 'lưng liêm loi.<<<
+>>>cong cong hình chữ S|||đŏng đŏng in chư̆ S<<<
+>>>Mình tên là Yôl.|||Inh măt Yôl.<<<
+>>>Mình tên là Điêu.|||Inh măt Diêu.<<<
+>>>Nhà Yôl ở đâu?|||Hnam e uĕi hăn như?<<<
+>>>Nhà mình ở làng Kon Đruch.|||Hnam inh uĕi pơlĕi Kon Druch.<<<
+>>>Còn nhà Điêu ở đâu?|||Tơnglơ̆i hnam e uĕi hăn như?<<<
+>>>Mình ở làng Kon Hai.|||Hnam inh uĕi pơlĕi Kon Hai.<<<
+>>>Nước đây, các anh uống đi.|||'Nău ơ̆u, et kih.<<<
+>>>Các anh đến nhà ông Nhơn có việc gì không?|||Yem năm tơ hnam 'bok Nhơn ơĭ tơdrong yưng?<<<
+>>>Như mọi chủ nhật, sáng nay Yôl ngủ dậy muộn.|||'Năr chu nhơ̆t như kung lơ̆i, bơgê adrơ̆u Yôl 'yung klui.<<<
+>>>Mặt trời đã lên quá ngọn quế trong vườn.|||Măt 'năr jơh suôn hluôi wêch kuê̆ lơ̆m mir.<<<
+>>>Ở ngoài sân, bố Yôl đang nói chuyện với một người lạ.|||Uĕi măng cham, 'bă Yôl atung 'bơ̆l adrĭng minh 'nu bơngai bĭ alê̆.<<<
+>>>Yôl hỏi mẹ.|||Yôl apinh mĭ.<<<
+>>>Đấy là bác Cường.|||'Nơ̆u la nă Kương.<<<
+>>>Lát nữa tôi lên họp ở ấy ban xã.|||Pă minh 'biê̆ inh năm hop tơ wi 'ban sa.<<<
+>>>Họp xong đi xuống làng Kon Đruch để cùng bà con bàn chuyện làm đường.|||Hop aleh năm jul pơlĕi Kon Druch sơ̆m nă ma tơja pơđam pơm trong.<<<
+>>>Nhưng tôi nói trước, tôi chỉ đến một lúc thôi, tôi không ở đến khuya đâu.|||Mă lĕi inh akhan adrol inh uĕi minh biê̆ yơh, inh bĭ đơ̆i uĕi truh kơmăng yơh.<<<
+>>>Gia đình tôi sống ở làng Kon Đruch, xã Vĩnh Sơn, huyện Vĩnh Thạnh.|||Ŭnh hnam inh arih uĕi pơlĕi Kon Druch, sa Vinh Sơn, huên Vinh Thanh.<<<
+>>>Chị gái tôi hiện là giáo viên trường làng.|||Mai inh ahrĕi ơ̆u la duch pơtho trương pơlĕi.<<<
+>>>Chị ấy đã lấy chồng ở làng bên nên thường về thăm nhà.|||Mai 'noh jơh 'yŏk tơhnglo uĕi pơlĕi jê̆ kơna mai 'noh năm tơmang mĭ 'bă hơ dach.<<<
+>>>Ba anh trai tôi đang học trường dân tộc nội trú ở dưới huyện Vĩnh Thạnh.|||Pêng 'nu 'nhŏng inh atung hok trương kon kông nôĭ tru uĕi tơ huen.<<<
+>>>Năm sau, tôi sẽ đi học ở dưới huyện.|||Sơnăm anô̆, inh năm hok uĕi tơ huen.<<<
+>>>Ở làng Kon Đruch, ông của Yôl là người già nhất.|||Uĕi pơlĕi Kon Druch, 'bok đe Yôl la bơngai kră loi đe nai.<<<
+>>>Yôl rất thích xem ông làm việc.|||Yôl 'moih ngŏ 'bok pơm tơpă.<<<
+>>>Thỉnh thoảng Yôl đi bẫy thú cùng ông.|||Đunh đunh, Yôl năm đăk chơđong adrĭng 'bok.<<<
+>>>Có lần, ông bẫy được con lợn rừng to bằng con bê.|||Ơĭ minh 'măng chơđong, 'bok đơ̆i minh tŏ chơke grông lơmo kon.<<<
+>>>Ông của Yôl biết rất nhiều chuyện dân tộc Ba na.|||'Bok đe Yôl alê̆ lư tơdrong kon kông Bơhnar.<<<
+>>>Những đêm rằm, ông thường kể chuyện cho Yôl nghe.|||Đĭ đăng kơmăng khĕi pơnil, 'bok roi tơdrong sơ̆ ăn kơ Yôl kơtơ̆ng.<<<
+>>>Trong những câu chuyện ông kể, có con thỏ khôn ngoan giúp người giết con cọp đữ, có chàng trai nghèo gặp nàng tiên bên suối.|||Lơ̆m tơdrong 'bok roi, ơĭ kon bơdung alăng aluôh tơgum bơngai 'bet 'bok nưih, ơĭ minh 'nu tơdăm dơnuh tơjrưm yă yang uĕi hăn sơđiêng đak.<<<
+>>>Làng Kon Đruch ở trên núi cao.|||Pơlĕi Kon Druch uĕi kơpưng kông đuôĭ.<<<
+>>>Làng có khoảng trên ba mươi gia đình người Ba na.|||Pơlĕi ơĭ loi pêng jĭt ŭnh hnam bơngai Bơhnar.<<<
+>>>Từ huyện Vĩnh Thạnh lên xã Vĩnh Sơn, chỉ có một con đường nhỏ, dài khoảng ba mươi cây số.|||Đưng Vinh Thanh truh Vinh Sơn ơĭ minh tŏ trong ken đuôi pêng jĭt kơ̆i sô.<<<
+>>>Vì đường đi khó khăn nên dân làng sống biệt lập với bên ngoài.|||Yuô trong năm anat kơna kon pơlĕi 'biê̆ lêch hluôi pơlĕi.<<<
+>>>Buổi sáng đi làm rẫy, buổi tối gia đình lại ngôi bên bếp lửa.|||Trong bơgê năm pơm mir, trong kơsơ̆ ŭnh hnam uĕi rok jih ŭnh.<<<
+>>>Những ngày lễ hoặc khi có khách đến, dân làng thường tập trung ở nhà rông để uống rượu cần, nhảy múa và ca hát.|||Ơĭ lơ̆m 'năr pui hĕi ơĭ lơ̆m năr tơmoi truh, kon pơlĕi truh hnam wal sư̆ et sơdrô triêng, kơdrô suang weng joh.<<<
+>>>Mùa hè, Yôl thường chăn trâu và tắm ở đó.|||Yan tŏ phang Yôl kiê̆ kơpô weng hum hăn 'noh dach.<<<
+>>>Vì Yôl sinh ra và lớn lên ở Kon Đruch nên nó rất yêu Kon Đruch.|||Yuô Yôl đeh tơ pơlĕi Kon Druch kơna hơ 'mem pơlĕi Kon Druch.<<<
+>>>Sáng thứ bảy, bố mẹ Yôl đi xuống Quy Nhơn để thăm bác Cường ốm.|||Bơgê thư̆ tơpơh, mi bă Yôl năm jul Kwi Nhơn sư̆ tơmang nă Kương jĭ.<<<
+>>>Yôl phải trông nhà.|||Yôl phai ngŏ hnam.<<<
+>>>Con nhớ nấu cơm đấy nhé.|||Kon 'blŏk ơ̆p ngoh yơh.<<<
+>>>À con nhớ phải học bài đấy nhé!|||Kon 'blŏk phai hok 'bai yơh!<<<
+>>>Câu hỏi làm cả lớp ôn ào.|||'Bơ̆l apinh pơm đĭ đăng lơ̆m lơp klik klang.<<<
+>>>Thưa cô, con muốn làm giáo viên như cô.|||Ơ duch, kon wă pơm duch pơtho in duch.<<<
+>>>Con muốn được dạy chữ Ba na cho bà con trong làng của con ạ.|||Kon wă đơ̆i pơtho chư Bơhnar ăn pơlĕi kon.<<<
+>>>Còn mỗi Điêu ngồi im lặng.|||Ară minh 'nu Diêu uĕi bơdư.<<<
+>>>Điêu học giỏi nhất lớp nhưng mơ ước lại rất đơn giản.|||Diêu hok hơgĕi loi đĭ đăng đe lơ̆m lơp, mă lĕi nưih 'moih 'bunh 'bŏk adrin.<<<
+>>>Điêu nói:|||Diêu khan:<<<
+>>>Hôm nào con cũng mong thự của bố.|||'Năr mă như kon kung gô kơthơ 'bă.<<<
+>>>Ngày xưa, có hai con quỷ cùng tên là Prôm thường xuống vùng sông Kôn để ăn thịt dân làng Ba na.|||'Năr sơ, ơĭ 'bal tŏ lêh lêm adrĭng măt Prôm hanh jul tơ krong 'bung sa asĕch kon pơlĕi Bơhnar.<<<
+>>>Thỉnh thoảng, chúng còn xuôi xuống tận hạ lưu để ăn thịt người Chăm.|||Đunh đunh, pre hơ ară jul truh tơ bah krong sa asĕch bơngai Chăm.<<<
+>>>Sau khi trừ được quỷ dữ, dân làng cũng không thấy bà Hơ Biên đâu nữa.|||Đưng rŏng 'bet đơ̆i lêh lêm, kon pơlĕi bĭ 'boh yă Hơ 'Biên tơ như piêu.<<<
+>>>Chỉ thấy tảng đá bà hay ngồi bỗng xuất hiện dòng chữ kì lạ trông rất đẹp.|||'Boh đêch tơmo yă Hơ 'Biên gô uơ̆i bĭ alê̆ 'ne yưng dĭ tơmo lêch trong chư lă lă liêm adrin.<<<
+>>>Từ đó, người ta gọi tảng đá đó là đá Hơ Biên.|||Kơna đưng 'noh, đe khan tơmo 'noh la tơno Hơ 'Biên.<<<
+>>>Nhà Yôl có một khu vườn rất đẹp.|||Hnam Yôl ơĭ minh tŏ mir lưng.<<<
+>>>Bố Yôl kể rằng: Bố mẹ trồng những cây ăn quả đầu tiên ở khu vườn này cách đây hơn hai mươi năm.|||'Bă đe Yôl roi: Mĭ 'bă pơtăm 'long sa plĕi pơtơm lơ̆m mir 'nơ̆u đưng rŏng 'nơ̆u loi 'bal jĭt sơnăm.<<<
+>>>Hồi đó đây là khu đất màu mỡ.|||Jơnang 'noh, dơnŏ 'nơ̆u la dơnŏ teh lưng.<<<
+>>>Bây giờ, trong vườn trồng đủ loại: quế, mít, xoài, ẩu đủ, chuối và cả bầu, bí nữa.|||Ahrĕi ơ̆u, lơ̆m mir pơtăm tôm adrêch: kuê̆, pơnăt, pơ-ŏ, đu, pit weng puôl, tơ'lôp piêu.<<<
+>>>Hôm nay Yôl ra vườn càng bố.|||'Năr adrơ̆u, Yôl năm tơ mir adrĭng 'bă.<<<
+>>>Nhìn buồng chuối trĩu quả, nó hỏi bố:|||'Ngŏ amông pit plĕi kơdung, hơ apinh 'bă:<<<
+>>>Hôm nay, cả nhà Yôl đi suốt lúa.|||'Năr adrơ̆u, đĭ đăng ŭnh hnam Yôl năm kêch 'ba.<<<
+>>>Mẹ và chị dậy sớm hơn mọi ngày.|||Mĭ weng kơ mai Yôl 'yung sruôih loi rim 'năr.<<<
+>>>Mẹ nấu cơm còn chị thì sửa soạn gùi, rựa.|||Mĭ ơ̆p ngoh weng 'yŏk 'mưĭ dơnol, tơbưk.<<<
+>>>Vì Yôl bé nhất nhà nên em không phải mang gùi.|||Yôl ken loi lơ̆m ŭnh hnam kơna yơĭ pŭ dơnol.<<<
+>>>Được đi suốt lúa, Yôl thích lắm.|||Đơ̆i năm kêch 'ba, Yôl pui adrin.<<<
+>>>Yôl vừa đi vừa chạy.|||Hơ bươ năm bươ kơdơ̆u.<<<
+>>>Mẹ bảo Yôl:|||Mĭ khan Yôl:<<<
+>>>Yôl vừa làm vừa chơi, hết chạy đến chỗ mẹ lại chạy sang chỗ bố, có khi lại mải mê nhìn theo những chú bướm vàng trước mặt.|||Yôl bươ pơm bươ sơhmanh đĭ kơdơ̆u dơnŏ mĭ đưng rŏng ĕi kơdơ̆u tơ 'bă, ơĭ Jơnang adrin ngŏ yă pơlai brơ̆u atung pal adrol măt.<<<
+>>>Thỉnh thoảng bố nhắc Yôl:|||Đunh đunh 'bă phai pơkă:<<<
+>>>Đến chiều, cả nhà đã suốt được một đống lúa to.|||Truh kơsơ̆, đĭ đăng ŭnh hnam jơh kêch đơ̆i minh pơnŭ 'ba grông.<<<
+>>>Bố nhìn Yôl nói: "Năm nay lúa tốt.|||'Bă ngŏ Yôl khan: "Sơnăm ơ̆u 'ba lưng.<<<
+>>>Bố mẹ sẽ mua cho Yôl một bộ quân áo thật đẹp.".|||Mĭ 'bă ruôt ăn kơ Yôl minh 'bô̆ kuơ̆n au liêm yơh!".<<<
+>>>Có chứ.|||Ơĭ năm.<<<
+>>>Trước đây đi săn nhiều, bây giờ thì ít rồi.|||'Năr sơ̆ năm ayô lư, ahrĕi ơ̆u 'biê̆ năm.<<<
+>>>Anh biết không, chúng tôi đi săn không chỉ để ăn thịt mà còn để bảo vệ mùa màng.|||'Nhŏng hăm alê̆, nhơn năm ayô sơbŏ sư̆ sa sem ară wă wĕi mir ba.<<<
+>>>Đi săn cũng là dịp để các chàng trai Ba na thể hiện tài năng và lòng dũng cảm đấy.|||Năm ayô 'noh sư̆ ngŏ alê̆ đe tơdăm bơngai Bơhnar đĕi đon chro tôm rim tơdrong bu yă loi.<<<
+>>>Mẹ đưa Yôl đến chỗ bán quần áo.|||Mĭ 'bă Yôl truh tĕch kuơ̆n au.<<<
+>>>Ở đây có rất nhiều quần áo đẹp, Yôl nhìn hoa cả mắt.|||Uĕi hơ-ơ̆u đơ̆i lư kuơ̆n au liêm, Yôl ngŏ tơbla măt.<<<
+>>>Mẹ mua cho Yôl một chiếc quần màu xanh, một chiếc áo màu vàng.|||Mĭ ruôt ăn kơ Yôl minh tŏ kuơ̆n kơsĕ, minh tŏ au 'brơ̆u.<<<
+>>>Yôl thích lắm.|||Yôl 'moih tơpă.<<<
+>>>Đến gần trưa, chợ đã vãn người, Yôl và mẹ ra về.|||Truh jê̆ 'năr dưng chơ̆ jơh 'biê̆ 'bơngai, Yôl weng mĭ lêch sưt.<<<
+>>>Yôl dặn mẹ: "Lần sau đi chợ mẹ cho con đi nữa nhé!".|||Yôl pơkă mĭ: "Năm chơ̆ đưng rŏng, mĭ ăn kon năm piêu yơh!".<<<
+>>>Ba ngàn hai nải được không?|||Inh ruôt 'bal bơlưk pêng abơ̆u hăm khĭ?<<<
+>>>Vâng.|||Khĭ.<<<
+>>>Một quyển vở hai ngàn rưỡi.|||'Bal abơ̆u đăm hriêng minh pôm hla bơ-al 'nơ̆u.<<<
+>>>Chị Sá là người chăm chỉ.|||Mai Să bơngai pơnam tơnui.<<<
+>>>Một thanh niên hỏi:|||Minh 'nơ̆u bơngai tơdăm apinh:<<<
+>>>Bao giờ em lại đi lấy củi?|||Layơ oh năm 'yŏk 'long ŭnh piêu?<<<
+>>>Người thanh niên trả tiền, rồi đi về phía cuối chợ.|||Bơngai tơdăm pơdriêu jên aleh năm sưt gah tuôch chơ̆.<<<
+>>>Chị Sá chăm chú nhìn theo: người đâu mà dễ thương đến thế!|||Mai să ngŏ pơlŏng đưng rŏng: bơngai đưng như ma 'moih 'mem 'moih mơnat pă lê̆ dang yơ!<<<
+>>>Nếu đan khéo thì nhanh và đẹp.|||Tơ̆ng tỉ pơm kheu hơ rĕnh.keh, weng kơ liêm.<<<
+>>>Nếu đan vụng thì lâu xong và xấu.|||Tơ̆ng pơm grôi hơ đunh hơleh weng kơ brư̆.<<<
+>>>Hai cái này để đựng thóc và bắp.|||'Bal tŏ mă 'nău sư̆ mong 'ba weng hơ'bo.<<<
+>>>Cái kia để đựng rau và cỏ.|||Mă to mong hla 'nhem weng kơ 'nhăt.<<<
+>>>Cái kia nữa để đựng củi và đuốc.|||Mă to piêu sư̆ mong 'long ŭnh weng apoih.<<<
+>>>Cháu giúp ông chẻ lạt đi.|||Său tơgưm 'bok chăl tơlak kih.<<<
+>>>Cẩn thận, kẻo cắt vào tay!|||Bơlơ̆ng bơlơ̆ng, săng 'bom ti yơh!<<<
+>>>Ngày xưa, có hai vợ chông nghèo sinh được hai người con trai.|||'Năr sơ̆, ơ̆i 'bal 'nu yă 'bok dơnuh đeh đơ̆i 'bal 'nu kon tơhnglo.<<<
+>>>Hai anh em phải cùng nhau trồng sắn ăn.|||'Bal 'nu nhŏng oh pre phai pơtăm 'bum sa sư̆ arih.<<<
+>>>Một hôm, không biết từ đâu đến, có một bầy khỉ vào rẫy phá sắn.|||Ơĭ minh 'măng, bĭ alê̆ đưng như truh, ơĭ minh tơpul đŏk mưt tơ mir phă 'bum.<<<
+>>>Anh đi tìm bắt cua ở suối, về giã nát ướp cho thối rồi bôi lên người.|||'Nhŏng năm chă rôp kơtam rok sơđiêng đak, sưt peh hach, pơ'nhŭ đưng rŏng 'mik suôn akău.<<<
+>>>Hôm sau, bầy khỉ vào rẫy ăn sắn.|||'Năr đưng rŏng, tơpul đŏk mưt mir sa 'bum.<<<
+>>>Chúng trèo lên thân cây đổ, ngửi thấy mùi thối, nhìn xuống thấy một người nằm ở dưới.|||Kăn hơ hau kơpưng 'long păk, hut kơtơ̆ng 'mơ̆u ôm, ngŏ tơ teh 'boh minh 'nu 'bich hăn teh.<<<
+>>>Lũ khỉ nghĩ là người đó chết đói, chúng liền rủ nhau khiêng về làm đám ma.|||Tơpul đŏk atăk bơngai 'noh luôch bơngot.<<<
+>>>Khỉ làm đám ma, bầy khỉ mang tất cả của cải, tiền bạc ra.|||Kăn hơ hnhuk tơ bơ̆l tông sưt sơmah atơ̆u.<<<
+>>>Người em chỉ chờ có vậy vùng dậy la hét, xua đuổi.|||Oh hơ jơ pă gô lơ̆i đêch plŭk 'yung, krau awah, adrang.<<<
+>>>Đám khỉ chạy hết.|||Tơpul đŏk kơdơ̆u đi.<<<
+>>>Mùa phát rẫy đã đến, hôm nay ông Ba đi xuống chợ mua thêm một con dao rựa.|||Jơh truh măng 'năr mưih mir, năr adrơ̆u 'bok 'Ba năm jul chơ̆ ruôt mĭnh hlak dơbưk piêu.<<<
+>>>Đi xem hết chợ một lượt, ông dừng lại chỗ người bán nhiều rựa nhất.|||Ngŏ đi lơ̆m chơ̆m minh măng, 'bok uĕi kơtă dơnŏ bơngai tĕch dơbuk lư loi.<<<
+>>>Người bán hàng đon đả hỏi ông:|||Bơngai tĕch tơmam hưch hanh apinh 'bok:<<<
+>>>Dao rựa đây.|||Dơbưk 'nơ̆u.<<<
+>>>Em My đi chăn trâu.|||Oh Mi năm kiê̆ kơpô.<<<
+>>>Con chưa thấy nhà ruộng à? Nhà ruộng là một cái nhà nhỏ ở gần ruộng, khi nào lúa chín thì chúng ta sẽ ở đó để canh lúa.|||Kon đim 'boh hnam gô rêch ah? Hnam gô rêch la hnam ken pơm jê̆ bal lanhư 'ba đum bơ̆n năm uĕi tơ 'noh sư̆ gô rêch.<<<
+>>>Không có cỏ gianh thì không lợp được mái.|||Yơĭ hla ja bĭ đơ̆i atăk dil hnam.<<<
+>>>Hôm nay, bố mẹ cho Yôl đi theo lên rẫy.|||'Năr adrơ̆u mĭ 'bă ăn Yôl năm tiê̆ tơ mir.<<<
+>>>Có lúc thì theo sau, lúc thì vụt chạy lên trước, có vẻ vui thích lắm.|||Ơĭ dơnŏ kodơ̆u tiĕ đưng rŏng, ơĭ dơnŏ kê̆ kơdơ̆u năm adrol, ngŏ sư 'moih tơpă.<<<
+>>>Yôl và con Vàng đi theo con đường mòn vào rừng.|||Yôl weng kŏ 'Brơ̆u năm rok minh hlak trong uôh mưt tơ bri.<<<
+>>>Những đám cỏ mát lạnh dưới chân.|||Lư 'nhăt sơhngeu jing juô̆ năm.<<<
+>>>Yôl hái một bông hoa đỏ còn ướt sương.|||Yôl hleh minh tŏ pơkau gôh arä hơnhuih đak lơngom.<<<
+>>>Em chợt nghe thấy tiếng con chim cu hót trong lùm cây trước mặt.|||Oh 'nhĕk kơtơ̆ng bơ̆l sem kơtơp tơsi lơ̆m tơnơm 'long anô̆ măt.<<<
+>>>Bố chặt chuối, mẹ và Yôl hái rau.|||'Bă koh pit mĭ weng Yôl kơsep hla 'nhem.<<<
+>>>Em chạy đi múc nước suối cho mẹ uống.|||Oh kơdơ̆u suk đak thong kơ mĭ et.<<<
+>>>Bố nhìn Yôl khen: "Giỏi lắm, con trai bố lớn rồi đó".|||'Bă ngŏ bơne Yôl: "Pơnam tơpă, kon tơhnglo 'bă Joh tih grông".<<<
+>>>Rồi mẹ và Yôl xếp những nải chuối vào gùi, có lúc đi theo sau có lúc vụt chạy lên trước.|||Aleh 'noh mĭ weng Yôl adon blưk pit tơmưt lơ̆m tuaih.<<<
+>>>Vì trước đây người Ba na chỉ làm rẫy.|||Yuô adrol 'noh bơngai Bơhnar pơm mir đêch.<<<
+>>>Con trâu nào khỏe thì cày được nhiều.|||Kơpô mă như jăng pơm đơ̆i lư.<<<
+>>>Nay thì làm nhỏ thôi.|||Ahrĕi ơ̆u pơm ken ken.<<<
+>>>Mỗi cái nhà thường dài bẩy — tám mét, rộng ba bốn mét, cao bốn — năm mét, sàn cách mặt đất một — một mét rưỡi.|||Minh tŏ hnam ahrĕi ơ̆u tol tơpơh - tơhngam met, wơ̆l să pêng — puôn met, yơl đuôĭ puôn đăm met, tơnơl hnam kơjung đưng teh đơ̆i minh met mình pơnuôt.<<<
+>>>Thường lát bằng mò o hoặc nứa.|||Pơm sơ̆m kram, ade, hyơl.<<<
+>>>Đến nơi, Diêu thấy nhiều củi quá.|||Truh dơnŏ, Diêu 'boh 'long ŭnh lư tơpă.<<<
+>>>Diêu nhanh nhẹn lấy rựa chặt những cành con bỏ vào gùi.|||Tơ̆m rĕnh rĕnh 'yŏk dơbưk koh sơgiêng 'long ken tuk lơ̆m tuaih.<<<
+>>>Mẹ nhìn Diêu cười:|||Mĭ ngŏ Diêu dĕk:<<<
+>>>Ngày xửa ngày xưa, ở làng nọ có gia đình Bok Ria rất giàu có.|||Sơ̆ kih sơ̆ kaih, uĕi pơlĕi 'noh, ơĭ ŭnh hnam 'Bok Ria bơdrŏng.<<<
+>>>Bok Ria có hai người con gái.|||'Bok Ria ơĭ 'bal 'nu kon kơdiŏng đêch.<<<
+>>>Người con gái cả tên là Yă Krua rất xấu xí, tâm địa lại độc ác.|||Mai kơdră măt Yă Kruô, brư̆ brich, 'bơ̆l đon brư̆ kơnĕ.<<<
+>>>Người con gái út tên là Min Địch rất xinh đẹp, hiền lành và tốt bụng.|||Kon kơdiŏng uch măt Min Dich liêm adrin, khôn kheŭ weng nưih liêm.<<<
+>>>Thấy Min Địch được nhiều người yêu mến, Yă Krua ghen tức và tìm cơ hội hãm hại.|||'Boh Min Dich đơ̆i lư bơngai wă Yă Kruô gal đuk weng chă dôm tơdrong sư̆ 'brơh.<<<
+>>>Gặp năm đói kém, người chết đây làng, hai chị em Min Địch và Yă Krua cũng vào rừng đào củ mài.|||Lơ̆m sơnăm pơngot, bơngai luôch 'bĕnh pơlĕi, pre mai oh Min Dich weng Yă Kruô kung mưt tơ bri sil 'bum bri.<<<
+>>>Khi trời tối, Min Địch bị lạc một mình trong rừng.|||Plĕnh klăm Min Dich wêng trong minh 'nu lơ̆m bri.<<<
+>>>Nàng đi mãi, gọi chị khản cả cổ nhưng không có ai trả lời.|||Bia năm đunh krau kơsu hơlŏng mă lĕi yơĭ bu tơ'bơ̆l.<<<
+>>>Nàng ngồi xuống gốc cây và khóc.|||Bia uĕi hăn tơm 'long weng nhĭm.<<<
+>>>Bỗng nhiên, Min Địch nghe thấy một giọng nói ấm áp:|||Min Dich kơtơ̆ng 'bơ̆l khan tơnŏ tơnang apinh:<<<
+>>>Nàng ngẩng đâu lên thấy một con trăn khổng lô ở trước mặt, hai mắt nó sáng quắc.|||Bia hnhĕi tơnhơĭ 'boh minh tŏ klăn grông adrin uĕi adrol măt, 'bal gĕl măt hơ rang tơpă.<<<
+>>>Thấy Min Địch sợ hãi, trăn nói:|||'Boh Min Dich 'yŭ adrin, kiăn khan:<<<
+>>>Tôi không ăn thịt cô đâu.|||Inh bĭ sa asĕch duch.<<<
+>>>Cô cần gì tôi sẽ giúp.|||Duch wă yưng inh tơgưm ăn.<<<
+>>>Min Địch kể lại đầu đuôi câu chuyện.|||Min Dich roi đĭ tơdrong.<<<
+>>>Con trăn đào một gùi đầy củ mài rồi đưa nàng về nhà.|||Klăn sil minh dơnol 'bĕnh 'bum bri.<<<
+>>>Đến nhà của Min Địch, trăn lột xác biến thành một chàng trai tuấn tú và hỏi cưới Min Địch.|||Đưng rŏng 'noh, chĕp duch sưt tơ hnam.<<<
+>>>Người chị cả Yă Krua càng ghen tức và đố kị, cũng đi vào rừng để tìm được một người chồng giàu có.|||Mai kơdră Yă Kruô gal đuk loi, kung năm mưt tơ bri sư̆ chă đơ̆i minh 'nu tơhnglo bơdrŏng.<<<
+>>>Không may, Yă Krua gặp phải một con trăn ác, bị ăn thịt.|||Ai bĭ mah, Yä Kruô tơjrưm minh tŏ klăn brư̆ kơnĕ.<<<
+>>>Nhà Yôl có một con trâu.|||Hnam Yôl ơĭ minh tŏ kơpô.<<<
+>>>Buổi sáng, Yôl thường thả trâu ở bãi có gần hồ, rồi đi lấy củi.|||Trong bơgê, Yôl tơ'nglaih kơpô lơ̆m tơmăn 'nhăt jê̆ 'bău, đưng rŏng 'noh, năm 'yŏk 'long ŭnh.<<<
+>>>Đến chiều, khi trâu đã no, Yôl chất hai bó củi to sụ lên lưng trâu rồi về nhà.|||Truh kơsơ̆, kơpô jơh phĭ, Yôl sư̆ 'bal tŏ 'long ŭnh grông kơpưng kơdŭ kơpô weng sưt tơ hnam.<<<
+>>>Yôl rất tự hào về trâu nhà mình.|||Yôl hưch hanh yuô kơpô hnam hơ.<<<
+>>>Nó rất to, có cặp sừng dài, đôi chân chắc khỏe và bộ lông dài mượt.|||Kơpô grông tơpă, ơĭ 'bal hlak ake đuôĭ, puôn hlak tơgong jăng, bek weng sơ̆k đuôĭ.<<<
+>>>Trâu nhà Yôl thường đánh thắng trâu nhà khác.|||Kơpô hnam YôlI dach tuh sa kơpô đe nai.<<<
+>>>Vì vậy, Yôl chăm sóc con trâu rất cẩn thận.|||Yuô lơ'noh, Yôl tơme rong kơpô kheu kheu.<<<
+>>>Em thường chọn những vạt cỏ non, những vũng nước trong nhất cho trâu ăn.|||Oh rơih tơmăn 'nhăt 'lơ̆p đêch, sơhlung đak hlăng ăn kơpô sa et.<<<
+>>>Lần sau, con không được để trâu nhà đánh nhau với những con trâu khác đấy nhé!|||Đưng rŏng 'nơ̆u, kon nĕ pă sư̆ kơpô hnam bơ̆n tuh kơpô hnam đe nai yơh!<<<
+>>>Ở làng Kon Đruch này, bác Nam là người chăn nuôi giỏi nhất.|||Uĕi pơlĕi Kon Druch 'nơ̆u, nă Nam bơngai rong agĕi loi.<<<
+>>>Cách đây mười năm, cũng như nhiều gia đình Ba na khác, nhà bác Nam không phải là một gia đình khá giả.|||Đưng ahrĕi ơ̆u minh jĭt sơnăm, dang dang lư ŭnh hnam bơhnar nai, hnam nă Nam sơ'bŏ ŭnh hnam bơdrŏng loi kơ đe.<<<
+>>>Mặc dù quanh năm làm lụng vất vả nhưng cũng chỉ đủ ăn.|||'Boh ơĭ pơm plăt sơnăm giêh anat hrap tơnat truh tuôch sơnăm kung lơ̆p mah sa.<<<
+>>>Ban đầu bác chỉ mua được một con trâu, hai con lợn giống.|||Pơtơm nă ruôt đơ̆i minh tŏ kơpô, 'bal tŏ nhŭng adrêch.<<<
+>>>Chỉ một năm sau, bác đã có thêm một con nghé và hơn chục con lợn con.|||'Lơ̆p minh sơnăm nă đơ̆i piêu minh tŏ kon kơpô weng loi minh jĭt tŏ nhŭng kon.<<<
+>>>Rồi bác mua thêm dê, bò, gà.|||Đưng ĕi nă ară ruôt piêu bơbê, lơmo, 'yĕr.<<<
+>>>Đàn gia súc, gia cầm của nhà bác vì vậy ngày một nhiều thêm.|||Tơpul nhŭng, 'yĕr, bơbê, kơpô dơnŏ hnam nă yuô lơ'noh kơna kang đunh kang lư loi piêu.<<<
+>>>Nhà bác Nam đã trở thành một trại chăn nuôi lớn.|||Hnam nă Nam jing atak hnam rong tih.<<<
+>>>Bác đã xây được nhà, mua được ti vi, xe máy.|||Nă Jơh pơm sơ̆i hnam, ruôt ti bi, se mĕi.<<<
+>>>Tối nay ở làng Kon Đruch có chiếu bóng.|||Kơmăng adrơ̆u, pơlĕi Kon Druch ơĭ chiêŭ phim.<<<
+>>>Đứa nào đứa nấy mắt sáng lên.|||Đĭ đăng kăn hơ măt bu kung rang.<<<
+>>>Đèn đuốc ở các làng lân cận loang loáng.|||Ŭnh apoih đe polĕi jê̆ jê̆ piêng glip.<<<
+>>>Những tốp thanh niên vừa đi vừa nói cười vui vẻ.|||Đe tơdăm bươ năm bươ đam tơ bơ̆l dĕk hưch hanh.<<<
+>>>Vui nhất là bọn trê con.|||Pui pe loi la đe hơ'yoh.<<<
+>>>Có đứa đến từ chập tối, lấy chổi quét sạch chỗ trước.|||Ơĭ 'nu truh đưng jê̆ kơsơ̆, chă dơnŏ uĕi chơpuih adrol.<<<
+>>>Có đứa đem cả chiếu xí chỗ.|||Ơĭ 'nu chĕp chiêu.<<<
+>>>Bọn chúng tôi lớn hơn thì chơi đuổi bắt nhau quanh bãi.|||Nhơn yä grông loi nhơn sơhmanh tiê̆ rôp tơ bơ̆l tơwang tơmăn.<<<
+>>>Tất cả mọi người đều im lặng.|||Đĭ đăng kon pơlĕi uĕi sreh.<<<
+>>>Gần đây, Yôl nghe bố mẹ nói nhiều đến cúm gà.|||Jê̆ hơ ơ̆u, Yôl kơtơ̆ng mĭ 'bă khan lư truh tơdrong 'yĕr kum.<<<
+>>>Bố mẹ nhốt đàn gà nhà Yôl ở một khoảnh vườn gần ao.|||Mĭ 'bă gron 'yĕr lơ̆m gơdron jê̆ 'bău.<<<
+>>>Bố dặn Yôl:|||'Bă pơkă Yôl:<<<
+>>>Con không được chạm vào gà và phân gà! Khi cho gà ăn, con phải đeo khẩu trang, găng tay.|||Kon nĕ pă beh 'yĕr weng kơ ich hơ yơh! Ăn 'yĕr sa, kon phai hlut pit muh, tơ̆t ti.<<<
+>>>Gà sống thì ăn được.|||'Yĕr arih sa khĭ.<<<
+>>>Nếu gà chết thì phải đốt và chôn xuống đất.|||Tơ̆ng 'yĕr luôch phai soh weng 'bŭ.<<<
+>>>Bác sĩ ở trạm xá cũng nói: để giữ gìn sức khỏe, mọi người không nên uống nước lã, không nên ăn thức ăn thiu.|||'Bak si uĕi tram sa kung khan: sư̆ wĕi grăng, rim bơngai nĕ pă et đak đêch, nĕ pă sa đô sa khung.<<<
+>>>Vùng này nhiều muỗi gây bệnh sốt rét.|||Apung 'nơ̆u ơĭ lư sơhmĕch 'bônh apoh jĭ lơngoh.<<<
+>>>Nếu bị ốm thì phải đến trạm xá khám để chữa bệnh ngay.|||Tơ̆ng jĭ phai năm tơ tram sa sư̆ hming.<<<
+>>>Chiều nay đi học về, Yôl cất tiếng gọi từ ngoài sân nhưng không thấy mẹ thưa.|||Kơsơ̆ adrơ̆u năm hok sưt, Yôl krau mĭ đưng 'măng cham mă lĕi bĭ kơtơ̆ng mĭ tơ̆l.<<<
+>>>Yôl bỗng thấy lo.|||Yôl chro adrin.<<<
+>>>Nhà cửa vắng lặng.|||Hnam 'măng jokot.<<<
+>>>Mọi hôm, khi Yôl đi học về là mẹ đã nấu xong cơm.|||Rim 'năr, Yôl sưt đưng hok la mĭ jơh ơ̆p hơleh ngoh.<<<
+>>>Yôl vào nhà, thấy mẹ đang nằm trên giường.|||Yôl mưt tơ hnam, jơh 'boh mĭ 'bich kơpưng jương.<<<
+>>>Yôl hỏi:|||Yôl apinh:<<<
+>>>Chắc là do ăn thức ăn thiu.|||Yuô inh sa đô sa khung.<<<
+>>>Mẹ đã uống thuốc nhưng không khỏi.|||Mĭ joh et bơgang mă lĕi đim glarh.<<<
+>>>Nếu sáng mai không khỏi thì mẹ sẽ đi trạm xá.|||Tơ̆ng bơgê dơning mĭ bĭ glaih jĭ, dĭ ơ̆i kơ-inh mĭ 'nau năm tơ tram sa.<<<
+>>>Bố Điêu bị ốm nặng.|||'Bă đe Diêu jĭ adrin.<<<
+>>>Sáng nay, Yôl cùng bố sang thăm.|||Bơgê adrơ̆u, Yôl adrĭng 'bă năm tơmang.<<<
+>>>Yôl thấy bố Điêu đang nằm trên giường, mắt nhắm nghiền, khuôn mặt gầy xọp đi nhiều chỉ sau vài ngày.|||Yôl 'boh 'bă đe Diêu atung 'bich kơpưng jương, măt kơ'nhĭp, adrơ măt akĕ loi đưng rŏng minh 'bal 'năt jĭ.<<<
+>>>Chỉ bị bong gân thôi.|||Yuô hơ eh đêch.<<<
+>>>Hôm qua cháu Điêu phải xuống Vĩnh Thạnh để mua.|||'Năr abri mon Diêu phai jul Vinh Thanh sư̆ ruôt bơgang.<<<
+>>>Nếu có gì cần giúp, anh bảo cháu sang gọi tôi nhé!|||Tơ̆ng ơĭ tơdrong yưng ploh tơgŭm, 'nhŏng krau mon năm krau kơ inh yơh!<<<
+>>>Ngày xửa ngày xưa, ở một làng nọ, có một chàng trai trẻ mô côi từ nhỏ, nhà rất nghèo.|||Sơ̆ kih sơ̆ kach, uĕi minh pơlĕi 'noh ơĭ minh 'nu tơdăm 'lơ̆p hiong mĭ 'bă đưng ken, hnam hơ dơnuh tơpă.<<<
+>>>Anh thường đi trông rẫy thuê cho những nhà giàu ở trong vùng.|||Hơ hanh năm ngŏ mir ăn kơ lu hnam bơdrơ̆ng kuan uĕi lờm apung.<<<
+>>>Một lần, anh đi trông rẫy cho một địa chủ nọ ở tận rừng sâu.|||Minh 'măng, hơ năm ngơ̆ mir ăn minh ŭnh hnam bơdrŏng uĕi lơ̆m bri hlŏ.<<<
+>>>Gần tối, đang ngồi ở trong chòi, anh bỗng nghe thấy voi rống ầm âm cùng với tiếng cây đổ gãy răng rắc ở rất gần.|||Jê̆ kơmăng, atung uĕi lơ̆m gưp, hơ kơtơ̆ng 'bơ̆l ruôih tơsi kueng kueng weng 'long păk ring khing rang khang jê̆ hơ.<<<
+>>>Anh vác dao chạy tới thì thấy một con trăn khổng lồ đang cuốn chặt một con voi lớn.|||Hơ bĕng đau kơdơ̆u truh tơ ơ̆i 'boh minh hlak klăn tung tih atung wăl ruôih tih.<<<
+>>>Voi dùng vòi bẻ cây đánh trăn nhưng có vẻ như vẫn bị yếu thế hơn.|||Ruôih 'yŏk trom gơ̆ 'long tơwing klăn mă lĕi hơ kung bĭ man.<<<
+>>>Anh liền xông vào dùng dao chém chết trăn.|||Hơ đuôt đau, tơpĕnh koh klăn.<<<
+>>>Voi quì xuống nói với chàng trai:|||Ruôih chơkul kơtăng khan:<<<
+>>>Anh hãy lấy đôi ngà của tôi! Đây là thứ quí giá nhất mà tôi có.|||'Nhŏng 'yŏk 'bal hlak bơla inh 'nơ̆u yơh! 'Nơ̆u la tơmam ram lưng loi mă inh ơĭ.<<<
+>>>Chàng trai vui vẻ nhận lấy.|||Hơ pui pe 'yŏk.<<<
+>>>Voi lại nói tiếp:|||Ruôih khan piêu:<<<
+>>>Khi đi ngủ, anh nhớ lấy một ngà gối đầu, một ngà gác chân.|||Tơ̆ng năm tep, nhŏng 'blŏk 'yŏk minh hlak bơla sơn kơ̆l, minh hlak sơn jưng.<<<
+>>>Rồi anh sẽ có những gì anh muốn.|||Đưng rŏng 'noh, 'nhŏng wă, yưng kung đơ̆i.<<<
+>>>Chàng trai cầm đôi ngà voi đi thẳng về nhà.|||Hơ chĕp 'bal hlak bơla ruôih năm sưt tơ hnam.<<<
+>>>Sáng hôm sau, anh lại vào rừng trông rẫy.|||Bơgê dơning hơ năm mưt tơ bri sư̆ ngơ̆ mir piêu.<<<
+>>>Chiều tối về nhà, anh rất ngạc nhiên khi thấy nhà cửa gọn gàng, sạch sẽ.|||Kơsơ̆ yư̆m yư̆m hơ sưt tơ hnam jơh 'boh lơ̆m hnam wôi iêl weng ngoh 'nhem nham.<<<
+>>>Mấy ngày sau anh đều thấy như vậy.|||Dôm 'năr đưng rŏng kung lĭ ơ̆i.<<<
+>>>Anh quyết định phải tìm ra người đó.|||Hơ phai chă pơlêch bơngai pơm todrong 'noh.<<<
+>>>Một hôm, anh giả vờ vác dao đi rẫy sớm.|||Minh 'măng, hơ plach năm tơ mir.<<<
+>>>Anh bước vào thì thấy đó là hai cô gái vô cùng xinh đẹp.|||Hơ mưt lơ̆m hnam 'boh 'bal 'nu adruh liêm loi kơ yang rang loi kơ 'năr.<<<
+>>>Hai cô gái e lệ gật đầu đồng ý.|||Pre bia mơlơ̆u kup kơ̆l.<<<
+>>>Hôm đó, dân làng ca hát, uống rượu suốt đêm để mừng cho hạnh phúc của chàng trai.|||Kon pơlĕi kơmăng mă 'noh et sơdrô joh hơlŏng minh măng truh chơdah sư̆ pui ăn hơ.<<<
+>>>Ngày uống ba lần, mỗi lần uống hai viên, trước bữa ăn.|||Minh 'năr et pêng 'măng.<<<
+>>>Uống hết thuốc, nếu không khỏi thì cháu đến trạm xá nhé.|||Minh 'măng et 'bal gĕl adrol kơ sa.<<<
+>>>Trạm xá xã Vĩnh Sơn là một dãy nhà nhỏ năm ở trung tâm xã.|||Tram sa sa Vinh Sơn la minh tŏ hnam đuôĭ ken uĕi tơ̆k bơ̆k sa.<<<
+>>>Kể từ khi có trạm xá, đây mới là lần đầu tiên Yôl bước vào.|||Đưng rŏng ơĭ tram sa, 'nơ̆u la 'năr pơtơm Yôl mưt.<<<
+>>>Yôl nhìn thấy một phụ nữ mặc bộ quân áo trắng, khoảng ba mươi tuổi.|||Yôl ngŏ 'boh mỉnh 'nu mai kon kơdiŏng srơ̆p kuơ̆n au kok, dang pêng jĭt sơnăm.<<<
+>>>Mẹ Yôl bảo đó là bác sĩ.|||Mĭ đe Yôl khan 'noh la 'bak si.<<<
+>>>Bác sĩ hỏi mẹ Yôl:|||'Bak sỉ apinh mĭ đe Yôl:<<<
+>>>Không được, bốn ngày nữa thì lâu quá.|||Bĭ đơ̆i, puôn 'năr piêu đunh tơpă.<<<
+>>>Thế thì cậu đi đi.|||Yăh thoi ĕi e năm kh.<<<
+>>>Tháng một, tháng hai, tháng ba, tháng tư, tháng năm, tháng sáu, tháng bảy, tháng tám, tháng chín, tháng mười, tháng mười một, tháng mười hai.|||Khĕi minh, khĕi 'bal, khĕi pêng, khĕi puôn, khĕi pơđăm, khĕi dơdrơ̆u, khĕi tơpơh, khĕi tơhngam, khĕi sin, khĕi minh jĭt, khĕi minh jĭt minh, khĕi minh jĭt 'bal.<<<
+>>>Có bốn buổi: buổi sáng, buổi trưa, buổi chiều và buổi tối.|||Ơi puôn 'buôi đêch: trong bơgê, trong 'năr dưng, trong kơsơ̆, trong kơmăng.<<<
+>>>Đố tiếp nhé: Một tuần có mấy ngày?|||Thư năng piêu: Minh tuơ̆n ơĭ dôm 'năr?<<<
+>>>Người già kể rằng từ ngày xưa, làng Ba na đã có một nhà sàn lớn nhất, đẹp nhất gọi là nhà rông.|||Bơngai kră roi tơdrong sơ̆, pơlĕi Bơhnar ơĭ minh tŏ hnam grông loi đĭ đăng, liêm loi đi đăng, khan hnam wal.<<<
+>>>Nhà rông thể hiện sự thịnh vượng của làng.|||Hnam wal ăn 'boh bơdrŏng kuan lơ̆m pơlĕi.<<<
+>>>Hai mái đằng trước và đằng sau dốc đứng.|||'Bal pah til jroh.<<<
+>>>Bên trong nhà rông, người Ba na đặt nhiều bếp lửa, treo nhiều cồng, chiêng, trống, cung tên và giáo mác.|||Lơ̆m hnam wal, bơngai Bơhnar sư̆ tơnuh ŭnh hơ'măk lư chĭng chêng, jơgơ̆l, sră 'brưm, tak.<<<
+>>>Có làng còn dựng một cây cột lớn ở giữa nhà rông.|||Ơĭ pơlĕi ară bơdưng minh hlak 'long jrăng grông uĕi tơ̆k bơ̆k hnam wal.<<<
+>>>Vì là nơi lưu giữ những giá trị truyền thống của buôn làng nên nhà rông được mọi người gìn giữ rất cẩn thận.|||Yuô la dơnŏ sư̆ tơdrong kră sơ̆ kơna hnam wal đơ̆i lư bơngai 'mem weng wĕi.<<<
+>>>Nhà rông là nơi diễn ra các lễ hội, là nơi tiếp đón khách, là nơi hội họp của dân làng, cũng là nơi để thanh niên nam nữ đến gặp gỡ, tỏ tình và kết duyên vợ chồng.|||Hnam wal la dơnê̆ gô răp tơmoi, la dơnơ̆ kon pơlĕi akŏm, kung la dơnơ̆ đe tơdăm, đe adruh truh sư̆ tơjrưm, wă tơ bơ̆l weng srôp kơdiơ̆ng, srôp tơhnglo.<<<
+>>>Đến tối, những người già trong làng đọc bài cúng Giàng, cầu cho mưa thuận gió hòa, nhiều thóc lúa và không ốm đau bệnh tật, trong tiếng cồng chiêng trầm hùng.|||Truh măng 'năr bơgrong sa kơpô, đe kră pơlĕi sơmah tơkal yang weng hmăng yang ăn 'mi prăng măng sođah, lư hơ'bo 'ba, khĭ jĭ luôch tuôch, hiong 'bơ̆l chĭng cheng, 'bơ̆l tơkach tơkal yang.<<<
+>>>Người ta đâm trâu và cắt đầu nó treo lên cột chính, chia thịt trâu cho mọi người cùng ăn.|||Đe tăm kơpô puôt 'yŏk kơ̆l atol hăn gư̆ng, asong asĕch ăn kơ đe kon pơlĕi sa.<<<
+>>>Đến tối, thanh niên nam nữ đốt lửa.|||Truh kơmăng, đe adruh tơdăm soh ŭnh.<<<
+>>>Lễ hội đâm trâu kéo dài ba ngày ba đêm mới kết thúc.|||Bơgrong sa kơpô lơ̆m pêng năr pêng măng aleh.<<<
+>>>Người Ba na là người đầu tiên đến đây.|||Bơngai Bahnar la bơngai truh tơ ơ̆u adrol loi.<<<
+>>>Một hôm họ bàn với nhau lên trời xin một đứa con.|||Minh 'măng pre pơđam 'bơ̆l suôn tơ plĕnh sư̆ aping Yang ăn kơ pre hơ minh 'nu kon.<<<
+>>>Đường sá xa xôi, núi non hiểm trở.|||Trong hlŏ hlang, bri kông klăm kleng chơhleng chơhlot.<<<
+>>>Hai vợ chồng vất vả lắm mới đến được cửa trời.|||Pre yă 'bok giêh glang adrin 'nau truh 'măng.<<<
+>>>Tuy nhiên, bây giờ thì khác rồi.|||Mă lĕi adrơ̆u kơdih loi kơ sơ̆.<<<
+>>>Rừng đem lại cho chúng ta gỗ để làm nhà cửa, củi để đun nấu.|||Bri chĕp ăn kơ bơ̆n 'long pơm hnam,'long ŭnh sư̆ ơ̆p ngoh 'nhĕm, ơ̆p đak.<<<
+>>>Chính vì vậy, ta phải cùng nhau bảo vệ rừng.|||Yuô lơ̆i, đĭ bơ̆n phai adrĭng wĕi ngŏ bri.<<<
+>>>Không phá rừng, không săn bắn trong rừng, không đốt lửa trong rừng và ngăn chặn kẻ xấu phá rừng.|||Nĕ năm ayô sem bri, nĕ mưih kăl 'long bri, nĕ soh ŭnh lơ̆m bri weng nĕ pă ăn bơngai klak brư̆ mưih kăl 'long bri.<<<
+>>>Bây giờ chim càng ngày càng ít.|||Ahrĕi ơ̆u sem kang 'năr kang biê̆.<<<
+>>>Lâu lắm, hôm nay Yôl mới thấy ánh nắng mặt trời.|||Đunh tơpă 'năr adrơ̆u Yôl 'nau 'boh jơdră tŏ măt 'năr.<<<
+>>>Ánh nắng ấm áp bắt đâu chiếu rọi khắp bản làng, núi rừng, xua tan những ngày dài âm u, lạnh giá.|||Sră tơnŏ tơnăn pơtơm jơdră jơ̆p jang pơla plĕi weng bri kông, druh adrang lư 'năr ư̆m lơngoh sơhngeu.<<<
+>>>Trời như sáng hơn, cao hơn, xanh hơn.|||Plĕnh rang loi, kơjung loi, kơsĕ loi.<<<
+>>>Những cành cây trơ trụi lá hôm nào giờ đang đua nhau đâm chồi, nảy lộc.|||Lư sơgiêng 'long hla jruh đĭ layơ ahrĕi ơ̆u tơgal srôh hla 'lơ̆p.<<<
+>>>Dưới đám lá khô đã bắt đầu mục, cỏ mọc lên tua tủa.|||Ala hla paih khô jơh jê̆ ôm 'nhăt hon lư lang lư lap.<<<
+>>>Một màu xanh non tơ cứ trải dài theo ánh mắt của Yôl.|||Minh bri kơsĕ lơ̆p să lang tang tơmang tuôch măt Yôl.<<<
+>>>Mấy chú chim sâu không biết từ đâu lại trở về rúc ra rúc rích sau vườn nhà.|||Dôm 'nơ̆u mă sem ken bĭ lê̆ đưng như wih sưt truh tơ-ơ̆u asiu asău gah rŏng mir hnam.<<<
+>>>Chúng thi nhau nhảy nhót, nghiêng nghiêng, ngó ngó, chuyền hết cành này sang cành khác xem chừng vui sướng lắm.|||Kăn sưh sơhmanh tơpĕnh tơpol asĕng asĕng, kleng kleng sơgiêng 'long nơ̆u apoh sơgiêng 'long nai, chro hyôk hiăn tơpă.<<<
+>>>Yôl cũng thấy mình vui vui.|||Yôl kung 'boh akău kơdĭh pui pui.<<<
+>>>Em tự nhủ: Dù còn nhiều khó khăn nhưng mình sẽ cố sắng học tập.|||Hơ chro.<<<
+>>>Nhất định mình phải góp sức làm cho mùa xuân của quê hương càng ngày càng đẹp hơn.|||Kơdih ơĭ lư tơdrong hrap tơnat dang như mă lê̆i inh adrin hok truh geh.<<<
+>>>Lửa từ rẫy lan ra rừng.|||Ŭnh sa mir tơpoh sa bri.<<<
+>>>Càng hay đốt rẫy thì càng hay cháy rừng.|||Kang lư bơngai soh mĭr, lĭnh sa bri kang lư.<<<
+>>>Có chứ.|||Ơĭ han.<<<
+>>>Nếu cháy rừng thì tất cả chúng tôi cùng dập lửa.|||Tơ̆ng ŭnh sa bri đĭ đăng kơ nhơn bu kung năm pĭt.<<<
+>>>Nếu cháy to thì không dập được.|||Mă lê̆i ŭnh sa bri jơh dêh tơnglơ̆i pĭt bĭ đơ̆i.<<<
+>>>Ở Bình Định có một dòng sông rất đẹp nhưng cũng rất hung dữ.|||Uĕi 'Binh Đinh, ơĭ minh hlak krong liêm adrin mă lĕi kung nưih brư̆ tơpă.<<<
+>>>Đó là sông Kôn.|||'Noh la krong 'Bung.<<<
+>>>Sông chảy từ vùng núi cao xuống đồng bằng, sau đó đổ ra biển.|||Krong 'yol đưng bri kông đuôĭ jul truh tơmăn đưng rŏng 'yol mưt tơsĭ.<<<
+>>>Vào mùa mưa, nước từ đầu nguồn đổ về làm nước sông dâng lên cuồn cuộn, cuốn phăng tất cả những vật cản trên đường đi của nó.|||Yan 'mi, đak đưng tu 'yol pơm ăn đak krong 'Bung grông, 'yol tơkul tơkul, pơđơng đĭ đăng tơdrong yưng uĕi lơ̆m trong hơ 'yol.<<<
+>>>Cách xa bờ sôngvvẫn nghe tiếng nước chẩy ầm ầm.|||Uĕi đưng hlŏ kung kơtơ̆ng đak 'yol phung phung.<<<
+>>>Vào những ngày này, bố Yôl và dân làng thường hay ra sông vớt củi về đun.|||Lơ̆m 'năr mă 'noh, 'bă đe Yôl weng kon pơlĕi hanh năm tơ krong 'yŏk 'long ŭnh chĕp sưt 'buh.<<<
+>>>Vào mùa khô, dòng sông cạn nước, để lộ ra những phiến đá đen đen nằm trơ trơ ở giữa lòng sông.|||Lơ̆m yan tŏ phang, krong sriê̆, tơmo lêch hlôl hlal, găm găm uĕi tơ̆k bơ̆k krong.<<<
+>>>Trong số đó có một phiến đá có khắc một dòng chữ cổ mà cho tới nay vẫn chưa ai dịch được.|||Lơ̆m tơmo lư 'noh, ơĭ minh tŏ tơmo kơpưng hơ ơĭ srĕ minh trong chư kră sơ̆.<<<
+>>>Người Ba na gọi là đá Hơ Biên và họ có cả một truyền thuyết về phiến đá này.|||Truh adrơ̆u đim ơĭ bu jich đơ̆i trong chư 'noh.<<<
+>>>Ở những buôn làng người Ba na, lúa đã tuốt về đầy ắp trong những kho cạnh nhà.|||Uĕi lư pơlĕi pơla bơngai Bơhnar, 'ba jơh kêch sưt bĕnh sum jê̆ hnam.<<<
+>>>Làng nào cũng nhộn nhịp chuẩn bị lễ hội mừng lúa mới.|||Pơlĕi mă yơ kung năm năm sưt sưt achuing achuang hưch hanh wă jê̆ măng 'năr sa mŏk.<<<
+>>>Tiếng cối giã lúa thình thịch xen lẫn với tiếng trẻ con chơi trò trốn tìm cười khúc khích.|||'Bơ̆l teh tơpal peh 'ba ping pung blă blă adring 'bơ̆l đe hơ 'yoh tơkrau bơdô̆ chă weng bơ̆l dĕk hơh hah.<<<
+>>>Đêm càng về khuya trăng càng sáng hơn.|||Kơmăng kang jê̆ klŏk măng khĕi kang rang thê̆ loi.<<<
+>>>Có ai đó đang thổi kèn.|||Ơĭ bu 'nĕi arĕ thuôi 'lal.<<<
+>>>Tiếng kèn rộn ràng như bay lên cùng trăng.|||'Bơ̆l 'lal re wêl wêl apal 'yung tiê̆ adơi khĕi.<<<
+>>>Anh Boong học rất giỏi.|||'Nhŏng 'Bong hok agĕi tơpă.<<<
+>>>Cuối năm học, anh được tỉnh Bình Định cho ra thăm thủ đô Hà Nội.|||Đĭ sơnăm hok 'nhŏng đơ̆i tĭnh 'Binh Đinh ăn lêch năm tơmang thŭ đô Ha Nôi.<<<
+>>>Về đến nhà, Boong say sưa kể chuyện thủ đô cho cả nhà nghe.|||Sưt truh hnam, 'Bong pơđam đĭ lơ̆m tơdrong 'lưng liêm uĕi thŭ đô ăn đĭ ŭnh hnam kơtơ̆ng.<<<
+>>>Bố hỏi Boong:|||'Bă apinh 'Bong:<<<
+>>>Từ đây đến Hà Nội dài một ngàn hai trăm cây số.|||Đưng ơ̆u truh Ha Nôi hlŏ minh hơbơ̆u 'bal hriêng kơsô̆.<<<
+>>>Đầu tiên con được đi thăm lăng Bác, được vào lăng viếng Bác.|||Adrol nhơn kon năm tơmang lăng Nă, đơ̆i mưt hnhĕi Nă lơ̆m hnam.<<<
+>>>Sau đó chúng con được đi thăm chùa Một Cột, hồ Hoàn Kiếm, vườn Bách thú.|||Đưng rŏng ĕi nhơn kon đơ̆i năm tơmang chuô minh hlak jrăng, 'bău Hoan Kiêm, bri rong sem.<<<
+>>>Ở đấy trưng bày trang phục, dụng cụ lao động, nhà cửa của nhiều dân tộc khác nhau.|||Uĕi hăn ĕi tơbang đĭ đăng tơmam ram, tơdrong amuô̆, tơdrong pơm sa sung dơbưk 'nhik jơdrap weng kang kưt rim kon kông leng ơĭ..<<<
+>>>Nghe Boong kể, bé Thêm thích lắm.|||Kơtơ̆ng 'Bong pơđam, oh Thêm 'moih tơpă.<<<
+>>>Thêm nói với bố:|||Thêm khan sơ̆m 'bă:<<<
+>>>Nước Việt Nam cong cong hình chữ S.|||Teh đak Viêt Nam đŏng đŏng in chư̆ S.<<<
+>>>Phía bắc giáp Trung Quốc, phía tây giáp Lào và Campuchia, phía đông và phía nam giáp biển.|||Gah 'băk atơ̆t Trung Kuôk, gah 'năr mưt atơ̆t teh đak Lau weng teh đak Kămpuchia, gah 'năr lêch weng gah krong atơ̆t đak tơsĭ.<<<
+>>>Nước ta có năm mươi tư dân tộc anh em.|||Teh đak bơ̆n đơ̆i pơđăm jĭt puôn adrêch kon kông 'nhŏng oh.<<<
+>>>Mỗi dân tộc có một phong tục tập quán riêng nhưng tất cả đều chung sống đoàn kết bên nhau.|||Minh tŏ jơ̆n tŭk kon kông ơĭ tơdrong diêng diêu sơmah sơmat krĕi krĕi mă lĕi lơ̆m jăl arih đoan kêt jơnŭm jơnăm thoi minh tŏ mĭ 'bă.<<<
+>>>Nhân dân ta không những anh dũng, kiên cường trong chiến đấu mà còn cần cù, chịu khó trong lao động.|||Kon bơngai lơ̆m teh đak bơ̆n sơbŏ minh tơdrong tơblah 'bĕt ayăt mơng kơtang ară agĕi pơnam tơnui pơm sa.<<<
+>>>Dưới sự lãnh đạo của Đảng, nhân dân ta đang ra sức thi đua lao động sản xuất, quyết tâm xây dựng đất nước ngày một tươi đẹp hơn.|||Ahrĕi đơ̆i Đang pơgơl đĭ đăng kon bơngai lơ̆m teh đak adrin tơjroh tơjrot pơm jang sa, chĕp đĭ sơhngơ̆m pran sư̆ tơ'yung teh đak kang đunh kang 'lưng liêm loi.<<<

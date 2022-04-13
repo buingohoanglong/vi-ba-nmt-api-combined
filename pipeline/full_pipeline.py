@@ -14,6 +14,7 @@ class TranslationPipeline:
     def __init__(self, config: Configuration):
         self.config = config
         self.vn_core_service = VnCoreService(config)
+        self.dictionary_translator = Translator(config, self.vn_core_service)
         self.bart_pho_model = BartPhoTranslator(config)
         tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", use_fast=False)
         pho_bert = AutoModel.from_pretrained("vinai/phobert-base")
@@ -118,9 +119,16 @@ class TranslationPipeline:
 
 
 if __name__ == "__main__":
+    from tqdm import tqdm
     config = Configuration()
     pipeline = TranslationPipeline(config)
-    output = pipeline("tôi là sinh viên trường đại học bach khoa.")
-    print(output)
+    vi_data = [item.rstrip() for item in open("checkpoints/dictionary_translate/data/vi_0504_s.txt", "r", encoding="utf8")]
+    ba_data = [item.rstrip() for item in open("checkpoints/dictionary_translate/data/bana_0504_s.txt", "r", encoding="utf8")]
+    for vi, ba in tqdm(zip(vi_data, ba_data), total=len(vi_data)):
+        translated = pipeline(vi)
+        if translated is None:
+            print(f"\n>>>{vi}|||{ba}<<<\n")
+    # output = pipeline("Có bốn buổi: buổi sáng, buổi trưa, buổi chiều và buổi tối")
+    # print(output)
 
 
