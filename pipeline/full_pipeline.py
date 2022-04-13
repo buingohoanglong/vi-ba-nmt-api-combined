@@ -84,7 +84,11 @@ class TranslationPipeline:
         elif model == ModelTypes.PHOBERT_FUSED:
             return self.pho_bert_fused_model([text])[0]
         elif model == ModelTypes.LOAN_FORMER:
-            return self.loan_former_model([text])[0]        
+            return self.loan_former_model([text])[0]    
+        elif model == ModelTypes.BART_PHO:
+            text = self.preprocess(text)
+            text = self.add_dot(text)
+            return self.bart_pho_model(text)
         else:
             #BART PHO + DICTIONARY ONLY
             text = self.preprocess(text)
