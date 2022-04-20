@@ -9,3 +9,5 @@ __pycache__
 */*/__pycache__
 */*/*/__pycache__
 tmp_files/
+venv
+model/transformerbertpgn/vncorenlp
