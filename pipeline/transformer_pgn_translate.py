@@ -6,6 +6,7 @@ from model.transformerbertpgn.translate import (
     get_transformer_model,
     get_loanformer_model,
     get_phobert_fused_model,
+    get_bartpho_encoder_pgn_model,
     process_raw_text
 )
 
@@ -18,8 +19,10 @@ class TransformerPGNTranslator:
             self.model = get_transformer_model(config, tokenizer, annotator)
         elif model_type == ModelTypes.PHOBERT_FUSED:
             self.model = get_phobert_fused_model(config, tokenizer, annotator, pho_bert_model)
-        else:
+        elif model_type == ModelTypes.LOAN_FORMER:
             self.model = get_loanformer_model(config, tokenizer, annotator, pho_bert_model)
+        else:
+            self.model = get_bartpho_encoder_pgn_model(config, tokenizer, annotator, pho_bert_model)
 
     def __call__(self, text):
         input_data = process_raw_text(

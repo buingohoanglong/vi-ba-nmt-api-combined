@@ -7,6 +7,7 @@ from config.config import Configuration
 from model.dictionary_translate.translate import Translator
 from services.vn_core_service import VnCoreService
 from pipeline.transformer_pgn_translate import TransformerPGNTranslator
+from pipeline.pe_pd_fused_translate import PEPDfusedTranslator
 from pipeline.bart_pho_translate import BartPhoTranslator
 
 
@@ -14,17 +15,23 @@ class TranslationPipeline:
     def __init__(self, config: Configuration):
         self.config = config
         self.vn_core_service = VnCoreService(config)
-        self.dictionary_translator = Translator(config, self.vn_core_service)
-        self.bart_pho_model = BartPhoTranslator(config)
-        tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", use_fast=False)
-        pho_bert = AutoModel.from_pretrained("vinai/phobert-base")
-        self.loan_former_model = TransformerPGNTranslator(config, tokenizer, self.vn_core_service, pho_bert,
-                                                          ModelTypes.LOAN_FORMER)
-        self.pho_bert_fused_model = TransformerPGNTranslator(config, tokenizer, self.vn_core_service, pho_bert,
-                                                             ModelTypes.PHOBERT_FUSED)
-        self.transformer_model = TransformerPGNTranslator(config, tokenizer, self.vn_core_service, pho_bert,
-                                                          ModelTypes.TRANSFORMER)
-        self.dictionary_translator = Translator(config, self.vn_core_service)
+        # self.dictionary_translator = Translator(config, self.vn_core_service)
+        # self.bart_pho_model = BartPhoTranslator(config)
+        # tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", use_fast=False)
+        # pho_bert = AutoModel.from_pretrained("vinai/phobert-base")
+        # self.loan_former_model = TransformerPGNTranslator(config, tokenizer, self.vn_core_service, pho_bert,
+        #                                                   ModelTypes.LOAN_FORMER)
+        # self.pho_bert_fused_model = TransformerPGNTranslator(config, tokenizer, self.vn_core_service, pho_bert,
+        #                                                      ModelTypes.PHOBERT_FUSED)
+        # self.transformer_model = TransformerPGNTranslator(config, tokenizer, self.vn_core_service, pho_bert,
+        #                                                   ModelTypes.TRANSFORMER)
+        # self.dictionary_translator = Translator(config, self.vn_core_service)
+
+        
+        word_tokenizer = AutoTokenizer.from_pretrained("vinai/bartpho-word", use_fast=False)
+        bart_pho = AutoModel.from_pretrained("vinai/bartpho-word")
+        self.bartpho_encoder_pgn_model = TransformerPGNTranslator(config, word_tokenizer, self.vn_core_service, bart_pho, ModelTypes.BARTPHO_ENCODER_PGN)
+        self.pe_pd_pgn_model = PEPDfusedTranslator(config, word_tokenizer, self.vn_core_service, bart_pho, ModelTypes.PE_PD_PGN)
 
     @staticmethod
     def preprocess(text):
@@ -86,6 +93,10 @@ class TranslationPipeline:
             return self.pho_bert_fused_model([text])[0]
         elif model == ModelTypes.LOAN_FORMER:
             return self.loan_former_model([text])[0]    
+        elif model == ModelTypes.BARTPHO_ENCODER_PGN:
+            return self.bartpho_encoder_pgn_model([text])[0]
+        elif model == ModelTypes.PE_PD_PGN:
+            return self.pe_pd_pgn_model([text])[0]
         elif model == ModelTypes.BART_PHO:
             text = self.preprocess(text)
             text = self.add_dot(text)

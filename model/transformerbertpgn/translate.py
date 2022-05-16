@@ -6,6 +6,8 @@ from transformers import AutoModel, AutoTokenizer
 from config.config import Configuration
 from model.transformerbertpgn.Dictionary import Dictionary
 from model.transformerbertpgn.model import NMT
+from model.transformerbertpgn.model_pepdfused import NMT as PEPDfusedNMT
+from model.transformerbertpgn.model_bartphoencoderfused import NMT as BartphoEncoderfusedNMT
 from model.transformerbertpgn.Loss import Loss
 from model.transformerbertpgn.utils import *
 
@@ -50,6 +52,82 @@ def get_model(dictionary_path, checkpoint_path, tokenizer, annotator, bert=None,
         dropout=dropout,
         bert=bert,
         d_bert=d_bert,
+        use_pgn=use_pgn,
+        use_ner=use_ner,
+        max_src_len=max_src_len,
+        max_tgt_len=max_tgt_len
+    )
+    model.eval()
+    model.to(device)
+
+    return model
+
+def get_model_bartpho_encoder_fused(dictionary_path, checkpoint_path, tokenizer, annotator, bert=None,
+              d_model=512, d_ff=2048, num_heads=8, num_layers=6, dropout=0.1, d_bert=None,
+              use_pgn=False, use_ner=False, max_src_len=256, max_tgt_len=256, device='cpu'):
+    # load dictionary
+    dictionary = Dictionary(tokenizer=tokenizer)
+    dictionary.add_from_file(dictionary_path)
+    dictionary.build_dictionary()
+    print(f'--|Vocab size: {len(dictionary)}')
+
+    # init criterion
+    criterion = Loss(ignore_idx=dictionary.token_to_index(dictionary.pad_token), smoothing=0.1)
+
+    # load model
+    print(checkpoint_path)
+    print(os.path.exists(checkpoint_path))
+    model = BartphoEncoderfusedNMT.load_from_checkpoint(
+        checkpoint_path=checkpoint_path,
+        dictionary=dictionary,
+        tokenizer=tokenizer,
+        annotator=annotator,
+        criterion=criterion,
+        d_model=d_model,
+        d_ff=d_ff,
+        num_heads=num_heads,
+        num_layers=num_layers,
+        dropout=dropout,
+        bert=bert,
+        d_bert=d_bert,
+        use_pgn=use_pgn,
+        use_ner=use_ner,
+        max_src_len=max_src_len,
+        max_tgt_len=max_tgt_len
+    )
+    model.eval()
+    model.to(device)
+
+    return model
+
+def get_model_pepdfused(dictionary_path, checkpoint_path, tokenizer, annotator, bart=None,
+              d_model=512, d_ff=2048, num_heads=8, num_layers=6, dropout=0.1, d_bart=None,
+              use_pgn=False, use_ner=False, max_src_len=256, max_tgt_len=256, device='cpu'):
+    # load dictionary
+    dictionary = Dictionary(tokenizer=tokenizer)
+    dictionary.add_from_file(dictionary_path)
+    dictionary.build_dictionary()
+    print(f'--|Vocab size: {len(dictionary)}')
+
+    # init criterion
+    criterion = Loss(ignore_idx=dictionary.token_to_index(dictionary.pad_token), smoothing=0.1)
+
+    # load model
+    print(checkpoint_path)
+    print(os.path.exists(checkpoint_path))
+    model = PEPDfusedNMT.load_from_checkpoint(
+        checkpoint_path=checkpoint_path,
+        dictionary=dictionary, 
+        tokenizer=tokenizer, 
+        annotator=annotator, 
+        criterion=criterion,
+        d_model=d_model, 
+        d_ff=d_ff,
+        num_heads=num_heads, 
+        num_layers=num_layers, 
+        dropout=dropout,
+        bart=bart,
+        d_bart=d_bart,
         use_pgn=use_pgn,
         use_ner=use_ner,
         max_src_len=max_src_len,
@@ -133,6 +211,48 @@ def get_loanformer_model(config: Configuration, tokenizer, annotator, phobert):
         device=device
     )
     return loan_former_model
+
+def get_bartpho_encoder_pgn_model(config: Configuration, tokenizer, annotator, phobert):
+    bartpho_encoder_pgn_model = get_model_bartpho_encoder_fused(
+        dictionary_path=config.bartphoencoder_pgn_dictionary_path,
+        checkpoint_path=config.bartphoencoder_pgn_checkpoint_path,
+        tokenizer=tokenizer,
+        annotator=annotator,
+        d_model=512,
+        d_ff=2048,
+        num_heads=8,
+        num_layers=6,
+        dropout=0.1,
+        bert=phobert,
+        d_bert=1024,
+        use_pgn=True,
+        use_ner=True,
+        max_src_len=256,
+        max_tgt_len=256,
+        device=device
+    )
+    return bartpho_encoder_pgn_model
+
+def get_pe_pd_pgn_model(config: Configuration, tokenizer, annotator, bartpho):
+    pe_pd_pgn_model = get_model_pepdfused(
+        dictionary_path=config.pe_pd_pgn_dictionary_path,
+        checkpoint_path=config.pe_pd_pgn_checkpoint_path,
+        tokenizer=tokenizer,
+        annotator=annotator,
+        d_model=512,
+        d_ff=2048,
+        num_heads=8,
+        num_layers=6,
+        dropout=0.1,
+        bart=bartpho,
+        d_bart=1024,
+        use_pgn=True,
+        use_ner=True,
+        max_src_len=256,
+        max_tgt_len=256,
+        device=device
+    )
+    return pe_pd_pgn_model
 
 
 def process_raw_text(text, dictionary, tokenizer, annotator, 

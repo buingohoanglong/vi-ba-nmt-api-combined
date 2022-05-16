@@ -11,6 +11,10 @@ class Configuration:
     transformers_dictionary_path = "checkpoints/dictionary/dict-synonymaugment.txt"
     transformers_checkpoint_path = "checkpoints/transformers/epoch=17-val_loss=1.40.ckpt"
     vi_ba_bart_pho_checkpoint = "checkpoints/vi_ba_bartpho"
+    pe_pd_pgn_dictionary_path = "checkpoints/dictionary/dict-synonymaugment.txt"
+    pe_pd_pgn_checkpoint_path = "checkpoints/pe_pd_pgn/PE-PD-PGN.ckpt"
+    bartphoencoder_pgn_dictionary_path = "checkpoints/dictionary/dict-synonymaugment-accent.txt"
+    bartphoencoder_pgn_checkpoint_path = "checkpoints/bartphoencoder_pgn/BARTphoEncoderPGN.ckpt"
     vn_core_nlp_address = "http://localhost"
     vn_core_nlp_port = 9000
 

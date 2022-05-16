@@ -2,6 +2,8 @@ checkpoints/loan_former
 checkpoints/phobert_fused
 checkpoints/transformers
 checkpoints/vi_ba_bartpho
+checkpoints/pe_pd_pgn
+checkpoints/bartphoencoder_pgn
 translated_data
 .idea
 __pycache__
