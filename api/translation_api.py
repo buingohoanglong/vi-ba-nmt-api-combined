@@ -52,6 +52,11 @@ def create_app():
         translated_text, model_type = await pipeline(text, model)
 
         tmp_dir = 'tmp_files'
+        isExist = os.path.exists(tmp_dir)
+        if not isExist: 
+            os.makedirs(tmp_dir)
+            print(f'Directory "{tmp_dir}" is created!')
+
         filename = str(int(time.time())) + file.filename
         with open(f'{tmp_dir}/{filename}', encoding='utf-8', mode='w') as f:
             f.write('\n'.join(translated_text))
